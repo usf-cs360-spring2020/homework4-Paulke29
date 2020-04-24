@@ -2,7 +2,10 @@ let csv = 'Fire_Department_Calls_for_Service.csv';
 console.log("CSV: "+csv);
 
 
-d3.csv(csv).then(drawChart);
+d3.csv(csv).then(function(data){
+drawChart(data);
+drawTreeMap(data);
+});
 function Frequency(data){
   var numbers;
   var neighbor;
@@ -89,4 +92,38 @@ function drawChart(data){
   //   return d.children === undefined ? d.data.names : '';
   // })
 
+}
+
+
+function drawTreeMap(data){
+  const Groupdata = Frequency(data);
+  var treeLayout = d3.tree()
+  .size([800, 400])
+
+var root = d3.hierarchy(Groupdata)
+
+treeLayout(root)
+
+// Nodes
+d3.select('#treemap g.nodes')
+  .selectAll('circle.node')
+  .data(root.descendants())
+  .enter()
+  .append('circle')
+  .classed('node', true)
+  .attr('cx', function(d) {return d.x;})
+  .attr('cy', function(d) {return d.y;})
+  .attr('r', 4);
+
+// Links
+d3.select('#treemap g.links')
+  .selectAll('line.link')
+  .data(root.links())
+  .enter()
+  .append('line')
+  .classed('link', true)
+  .attr('x1', function(d) {return d.source.x;})
+  .attr('y1', function(d) {return d.source.y;})
+  .attr('x2', function(d) {return d.target.x;})
+  .attr('y2', function(d) {return d.target.y;});
 }

@@ -177,6 +177,16 @@ You can even put code into these pre blocks.
             opacity: 0.3;
             stroke: white;
           }
+          .node {
+            fill: steelblue;
+            stroke: none;
+          }
+
+          .link {
+            fill: none;
+            stroke: #ccc;
+            stroke-width: 1px;
+          }
           text {
             font-family: "Helvetica Neue", Helvetica, sans-serif;
             fill: white;
@@ -188,6 +198,13 @@ You can even put code into these pre blocks.
           <svg width="960" height="600">
             <g></g>
           </svg>
+          <svg width="960" height="600" id="treemap">
+            <g transform="translate(5, 5)">
+              <g class="links"></g>
+              <g class="nodes"></g>
+            </g>
+          </svg>
+
         </div>
         <script src="HierachyChart.js"></script>
         <h4>Discussion</h4>
