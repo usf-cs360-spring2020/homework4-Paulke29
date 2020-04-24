@@ -1,0 +1,1830 @@
+CallTypeGroup,UnitType,Neighborhooods
+Alarm,AIRPORT,Lakeshore
+Alarm,AIRPORT,Potrero Hill
+Alarm,CHIEF,Bayview Hunters Point
+Alarm,CHIEF,Bernal Heights
+Alarm,CHIEF,Castro/Upper Market
+Alarm,CHIEF,Chinatown
+Alarm,CHIEF,Excelsior
+Alarm,CHIEF,Financial District/South Beach
+Alarm,CHIEF,Glen Park
+Alarm,CHIEF,Golden Gate Park
+Alarm,CHIEF,Haight Ashbury
+Alarm,CHIEF,Hayes Valley
+Alarm,CHIEF,Inner Richmond
+Alarm,CHIEF,Inner Sunset
+Alarm,CHIEF,Japantown
+Alarm,CHIEF,Lakeshore
+Alarm,CHIEF,Lincoln Park
+Alarm,CHIEF,Lone Mountain/USF
+Alarm,CHIEF,Marina
+Alarm,CHIEF,McLaren Park
+Alarm,CHIEF,Mission
+Alarm,CHIEF,Mission Bay
+Alarm,CHIEF,Nob Hill
+Alarm,CHIEF,Noe Valley
+Alarm,CHIEF,North Beach
+Alarm,CHIEF,Oceanview/Merced/Ingleside
+Alarm,CHIEF,Outer Mission
+Alarm,CHIEF,Outer Richmond
+Alarm,CHIEF,Pacific Heights
+Alarm,CHIEF,Portola
+Alarm,CHIEF,Potrero Hill
+Alarm,CHIEF,Presidio
+Alarm,CHIEF,Presidio Heights
+Alarm,CHIEF,Russian Hill
+Alarm,CHIEF,Seacliff
+Alarm,CHIEF,South of Market
+Alarm,CHIEF,Sunset/Parkside
+Alarm,CHIEF,Tenderloin
+Alarm,CHIEF,Treasure Island
+Alarm,CHIEF,Twin Peaks
+Alarm,CHIEF,Visitacion Valley
+Alarm,CHIEF,Western Addition
+Alarm,CHIEF,West of Twin Peaks
+Alarm,ENGINE,Bayview Hunters Point
+Alarm,ENGINE,Bernal Heights
+Alarm,ENGINE,Castro/Upper Market
+Alarm,ENGINE,Chinatown
+Alarm,ENGINE,Excelsior
+Alarm,ENGINE,Financial District/South Beach
+Alarm,ENGINE,Glen Park
+Alarm,ENGINE,Golden Gate Park
+Alarm,ENGINE,Haight Ashbury
+Alarm,ENGINE,Hayes Valley
+Alarm,ENGINE,Inner Richmond
+Alarm,ENGINE,Inner Sunset
+Alarm,ENGINE,Japantown
+Alarm,ENGINE,Lakeshore
+Alarm,ENGINE,Lincoln Park
+Alarm,ENGINE,Lone Mountain/USF
+Alarm,ENGINE,Marina
+Alarm,ENGINE,McLaren Park
+Alarm,ENGINE,Mission
+Alarm,ENGINE,Mission Bay
+Alarm,ENGINE,Nob Hill
+Alarm,ENGINE,Noe Valley
+Alarm,ENGINE,North Beach
+Alarm,ENGINE,Oceanview/Merced/Ingleside
+Alarm,ENGINE,Outer Mission
+Alarm,ENGINE,Outer Richmond
+Alarm,ENGINE,Pacific Heights
+Alarm,ENGINE,Portola
+Alarm,ENGINE,Potrero Hill
+Alarm,ENGINE,Presidio
+Alarm,ENGINE,Presidio Heights
+Alarm,ENGINE,Russian Hill
+Alarm,ENGINE,Seacliff
+Alarm,ENGINE,South of Market
+Alarm,ENGINE,Sunset/Parkside
+Alarm,ENGINE,Tenderloin
+Alarm,ENGINE,Treasure Island
+Alarm,ENGINE,Twin Peaks
+Alarm,ENGINE,Visitacion Valley
+Alarm,ENGINE,Western Addition
+Alarm,ENGINE,West of Twin Peaks
+Alarm,INVESTIGATION,Bayview Hunters Point
+Alarm,INVESTIGATION,Bernal Heights
+Alarm,INVESTIGATION,Castro/Upper Market
+Alarm,INVESTIGATION,Chinatown
+Alarm,INVESTIGATION,Excelsior
+Alarm,INVESTIGATION,Financial District/South Beach
+Alarm,INVESTIGATION,Golden Gate Park
+Alarm,INVESTIGATION,Haight Ashbury
+Alarm,INVESTIGATION,Hayes Valley
+Alarm,INVESTIGATION,Inner Richmond
+Alarm,INVESTIGATION,Inner Sunset
+Alarm,INVESTIGATION,Japantown
+Alarm,INVESTIGATION,Lakeshore
+Alarm,INVESTIGATION,Lone Mountain/USF
+Alarm,INVESTIGATION,Marina
+Alarm,INVESTIGATION,McLaren Park
+Alarm,INVESTIGATION,Mission
+Alarm,INVESTIGATION,Mission Bay
+Alarm,INVESTIGATION,Nob Hill
+Alarm,INVESTIGATION,Noe Valley
+Alarm,INVESTIGATION,North Beach
+Alarm,INVESTIGATION,Oceanview/Merced/Ingleside
+Alarm,INVESTIGATION,Outer Mission
+Alarm,INVESTIGATION,Outer Richmond
+Alarm,INVESTIGATION,Pacific Heights
+Alarm,INVESTIGATION,Portola
+Alarm,INVESTIGATION,Potrero Hill
+Alarm,INVESTIGATION,Presidio
+Alarm,INVESTIGATION,Presidio Heights
+Alarm,INVESTIGATION,Russian Hill
+Alarm,INVESTIGATION,South of Market
+Alarm,INVESTIGATION,Sunset/Parkside
+Alarm,INVESTIGATION,Tenderloin
+Alarm,INVESTIGATION,Treasure Island
+Alarm,INVESTIGATION,Twin Peaks
+Alarm,INVESTIGATION,Visitacion Valley
+Alarm,INVESTIGATION,Western Addition
+Alarm,INVESTIGATION,West of Twin Peaks
+Alarm,MEDIC,Bayview Hunters Point
+Alarm,MEDIC,Bernal Heights
+Alarm,MEDIC,Castro/Upper Market
+Alarm,MEDIC,Chinatown
+Alarm,MEDIC,Excelsior
+Alarm,MEDIC,Financial District/South Beach
+Alarm,MEDIC,Glen Park
+Alarm,MEDIC,Golden Gate Park
+Alarm,MEDIC,Haight Ashbury
+Alarm,MEDIC,Hayes Valley
+Alarm,MEDIC,Inner Richmond
+Alarm,MEDIC,Inner Sunset
+Alarm,MEDIC,Japantown
+Alarm,MEDIC,Lakeshore
+Alarm,MEDIC,Lincoln Park
+Alarm,MEDIC,Lone Mountain/USF
+Alarm,MEDIC,Marina
+Alarm,MEDIC,McLaren Park
+Alarm,MEDIC,Mission
+Alarm,MEDIC,Mission Bay
+Alarm,MEDIC,Nob Hill
+Alarm,MEDIC,Noe Valley
+Alarm,MEDIC,North Beach
+Alarm,MEDIC,Oceanview/Merced/Ingleside
+Alarm,MEDIC,Outer Mission
+Alarm,MEDIC,Outer Richmond
+Alarm,MEDIC,Pacific Heights
+Alarm,MEDIC,Portola
+Alarm,MEDIC,Potrero Hill
+Alarm,MEDIC,Presidio
+Alarm,MEDIC,Presidio Heights
+Alarm,MEDIC,Russian Hill
+Alarm,MEDIC,Seacliff
+Alarm,MEDIC,South of Market
+Alarm,MEDIC,Sunset/Parkside
+Alarm,MEDIC,Tenderloin
+Alarm,MEDIC,Treasure Island
+Alarm,MEDIC,Twin Peaks
+Alarm,MEDIC,Visitacion Valley
+Alarm,MEDIC,Western Addition
+Alarm,MEDIC,West of Twin Peaks
+Alarm,PRIVATE,Bayview Hunters Point
+Alarm,PRIVATE,Bernal Heights
+Alarm,PRIVATE,Castro/Upper Market
+Alarm,PRIVATE,Chinatown
+Alarm,PRIVATE,Excelsior
+Alarm,PRIVATE,Financial District/South Beach
+Alarm,PRIVATE,Glen Park
+Alarm,PRIVATE,Golden Gate Park
+Alarm,PRIVATE,Haight Ashbury
+Alarm,PRIVATE,Hayes Valley
+Alarm,PRIVATE,Inner Richmond
+Alarm,PRIVATE,Inner Sunset
+Alarm,PRIVATE,Japantown
+Alarm,PRIVATE,Lakeshore
+Alarm,PRIVATE,Lincoln Park
+Alarm,PRIVATE,Lone Mountain/USF
+Alarm,PRIVATE,Marina
+Alarm,PRIVATE,McLaren Park
+Alarm,PRIVATE,Mission
+Alarm,PRIVATE,Mission Bay
+Alarm,PRIVATE,Nob Hill
+Alarm,PRIVATE,Noe Valley
+Alarm,PRIVATE,North Beach
+Alarm,PRIVATE,Oceanview/Merced/Ingleside
+Alarm,PRIVATE,Outer Mission
+Alarm,PRIVATE,Outer Richmond
+Alarm,PRIVATE,Pacific Heights
+Alarm,PRIVATE,Portola
+Alarm,PRIVATE,Potrero Hill
+Alarm,PRIVATE,Presidio
+Alarm,PRIVATE,Presidio Heights
+Alarm,PRIVATE,Russian Hill
+Alarm,PRIVATE,Seacliff
+Alarm,PRIVATE,South of Market
+Alarm,PRIVATE,Sunset/Parkside
+Alarm,PRIVATE,Tenderloin
+Alarm,PRIVATE,Treasure Island
+Alarm,PRIVATE,Twin Peaks
+Alarm,PRIVATE,Visitacion Valley
+Alarm,PRIVATE,Western Addition
+Alarm,PRIVATE,West of Twin Peaks
+Alarm,RESCUE CAPTAIN,Bayview Hunters Point
+Alarm,RESCUE CAPTAIN,Bernal Heights
+Alarm,RESCUE CAPTAIN,Castro/Upper Market
+Alarm,RESCUE CAPTAIN,Chinatown
+Alarm,RESCUE CAPTAIN,Excelsior
+Alarm,RESCUE CAPTAIN,Financial District/South Beach
+Alarm,RESCUE CAPTAIN,Glen Park
+Alarm,RESCUE CAPTAIN,Golden Gate Park
+Alarm,RESCUE CAPTAIN,Haight Ashbury
+Alarm,RESCUE CAPTAIN,Hayes Valley
+Alarm,RESCUE CAPTAIN,Inner Richmond
+Alarm,RESCUE CAPTAIN,Inner Sunset
+Alarm,RESCUE CAPTAIN,Japantown
+Alarm,RESCUE CAPTAIN,Lakeshore
+Alarm,RESCUE CAPTAIN,Lincoln Park
+Alarm,RESCUE CAPTAIN,Lone Mountain/USF
+Alarm,RESCUE CAPTAIN,Marina
+Alarm,RESCUE CAPTAIN,McLaren Park
+Alarm,RESCUE CAPTAIN,Mission
+Alarm,RESCUE CAPTAIN,Mission Bay
+Alarm,RESCUE CAPTAIN,Nob Hill
+Alarm,RESCUE CAPTAIN,Noe Valley
+Alarm,RESCUE CAPTAIN,North Beach
+Alarm,RESCUE CAPTAIN,Oceanview/Merced/Ingleside
+Alarm,RESCUE CAPTAIN,Outer Mission
+Alarm,RESCUE CAPTAIN,Outer Richmond
+Alarm,RESCUE CAPTAIN,Pacific Heights
+Alarm,RESCUE CAPTAIN,Portola
+Alarm,RESCUE CAPTAIN,Potrero Hill
+Alarm,RESCUE CAPTAIN,Presidio
+Alarm,RESCUE CAPTAIN,Presidio Heights
+Alarm,RESCUE CAPTAIN,Russian Hill
+Alarm,RESCUE CAPTAIN,Seacliff
+Alarm,RESCUE CAPTAIN,South of Market
+Alarm,RESCUE CAPTAIN,Sunset/Parkside
+Alarm,RESCUE CAPTAIN,Tenderloin
+Alarm,RESCUE CAPTAIN,Treasure Island
+Alarm,RESCUE CAPTAIN,Twin Peaks
+Alarm,RESCUE CAPTAIN,Visitacion Valley
+Alarm,RESCUE CAPTAIN,Western Addition
+Alarm,RESCUE CAPTAIN,West of Twin Peaks
+Alarm,RESCUE SQUAD,Bayview Hunters Point
+Alarm,RESCUE SQUAD,Bernal Heights
+Alarm,RESCUE SQUAD,Castro/Upper Market
+Alarm,RESCUE SQUAD,Chinatown
+Alarm,RESCUE SQUAD,Excelsior
+Alarm,RESCUE SQUAD,Financial District/South Beach
+Alarm,RESCUE SQUAD,Glen Park
+Alarm,RESCUE SQUAD,Golden Gate Park
+Alarm,RESCUE SQUAD,Haight Ashbury
+Alarm,RESCUE SQUAD,Hayes Valley
+Alarm,RESCUE SQUAD,Inner Richmond
+Alarm,RESCUE SQUAD,Inner Sunset
+Alarm,RESCUE SQUAD,Japantown
+Alarm,RESCUE SQUAD,Lakeshore
+Alarm,RESCUE SQUAD,Lincoln Park
+Alarm,RESCUE SQUAD,Lone Mountain/USF
+Alarm,RESCUE SQUAD,Marina
+Alarm,RESCUE SQUAD,McLaren Park
+Alarm,RESCUE SQUAD,Mission
+Alarm,RESCUE SQUAD,Mission Bay
+Alarm,RESCUE SQUAD,Nob Hill
+Alarm,RESCUE SQUAD,Noe Valley
+Alarm,RESCUE SQUAD,North Beach
+Alarm,RESCUE SQUAD,Oceanview/Merced/Ingleside
+Alarm,RESCUE SQUAD,Outer Mission
+Alarm,RESCUE SQUAD,Outer Richmond
+Alarm,RESCUE SQUAD,Pacific Heights
+Alarm,RESCUE SQUAD,Portola
+Alarm,RESCUE SQUAD,Potrero Hill
+Alarm,RESCUE SQUAD,Presidio
+Alarm,RESCUE SQUAD,Presidio Heights
+Alarm,RESCUE SQUAD,Russian Hill
+Alarm,RESCUE SQUAD,Seacliff
+Alarm,RESCUE SQUAD,South of Market
+Alarm,RESCUE SQUAD,Sunset/Parkside
+Alarm,RESCUE SQUAD,Tenderloin
+Alarm,RESCUE SQUAD,Treasure Island
+Alarm,RESCUE SQUAD,Twin Peaks
+Alarm,RESCUE SQUAD,Visitacion Valley
+Alarm,RESCUE SQUAD,Western Addition
+Alarm,RESCUE SQUAD,West of Twin Peaks
+Alarm,SUPPORT,Bayview Hunters Point
+Alarm,SUPPORT,Bernal Heights
+Alarm,SUPPORT,Castro/Upper Market
+Alarm,SUPPORT,Chinatown
+Alarm,SUPPORT,Excelsior
+Alarm,SUPPORT,Financial District/South Beach
+Alarm,SUPPORT,Glen Park
+Alarm,SUPPORT,Golden Gate Park
+Alarm,SUPPORT,Haight Ashbury
+Alarm,SUPPORT,Hayes Valley
+Alarm,SUPPORT,Inner Richmond
+Alarm,SUPPORT,Inner Sunset
+Alarm,SUPPORT,Japantown
+Alarm,SUPPORT,Lakeshore
+Alarm,SUPPORT,Lincoln Park
+Alarm,SUPPORT,Lone Mountain/USF
+Alarm,SUPPORT,Marina
+Alarm,SUPPORT,McLaren Park
+Alarm,SUPPORT,Mission
+Alarm,SUPPORT,Mission Bay
+Alarm,SUPPORT,Nob Hill
+Alarm,SUPPORT,Noe Valley
+Alarm,SUPPORT,North Beach
+Alarm,SUPPORT,Oceanview/Merced/Ingleside
+Alarm,SUPPORT,Outer Mission
+Alarm,SUPPORT,Outer Richmond
+Alarm,SUPPORT,Pacific Heights
+Alarm,SUPPORT,Portola
+Alarm,SUPPORT,Potrero Hill
+Alarm,SUPPORT,Presidio
+Alarm,SUPPORT,Presidio Heights
+Alarm,SUPPORT,Russian Hill
+Alarm,SUPPORT,Seacliff
+Alarm,SUPPORT,South of Market
+Alarm,SUPPORT,Sunset/Parkside
+Alarm,SUPPORT,Tenderloin
+Alarm,SUPPORT,Treasure Island
+Alarm,SUPPORT,Twin Peaks
+Alarm,SUPPORT,Visitacion Valley
+Alarm,SUPPORT,Western Addition
+Alarm,SUPPORT,West of Twin Peaks
+Alarm,TRUCK,Bayview Hunters Point
+Alarm,TRUCK,Bernal Heights
+Alarm,TRUCK,Castro/Upper Market
+Alarm,TRUCK,Chinatown
+Alarm,TRUCK,Excelsior
+Alarm,TRUCK,Financial District/South Beach
+Alarm,TRUCK,Glen Park
+Alarm,TRUCK,Golden Gate Park
+Alarm,TRUCK,Haight Ashbury
+Alarm,TRUCK,Hayes Valley
+Alarm,TRUCK,Inner Richmond
+Alarm,TRUCK,Inner Sunset
+Alarm,TRUCK,Japantown
+Alarm,TRUCK,Lakeshore
+Alarm,TRUCK,Lincoln Park
+Alarm,TRUCK,Lone Mountain/USF
+Alarm,TRUCK,Marina
+Alarm,TRUCK,McLaren Park
+Alarm,TRUCK,Mission
+Alarm,TRUCK,Mission Bay
+Alarm,TRUCK,Nob Hill
+Alarm,TRUCK,Noe Valley
+Alarm,TRUCK,North Beach
+Alarm,TRUCK,Oceanview/Merced/Ingleside
+Alarm,TRUCK,Outer Mission
+Alarm,TRUCK,Outer Richmond
+Alarm,TRUCK,Pacific Heights
+Alarm,TRUCK,Portola
+Alarm,TRUCK,Potrero Hill
+Alarm,TRUCK,Presidio
+Alarm,TRUCK,Presidio Heights
+Alarm,TRUCK,Russian Hill
+Alarm,TRUCK,Seacliff
+Alarm,TRUCK,South of Market
+Alarm,TRUCK,Sunset/Parkside
+Alarm,TRUCK,Tenderloin
+Alarm,TRUCK,Treasure Island
+Alarm,TRUCK,Twin Peaks
+Alarm,TRUCK,Visitacion Valley
+Alarm,TRUCK,Western Addition
+Alarm,TRUCK,West of Twin Peaks
+Fire,AIRPORT,Bayview Hunters Point
+Fire,AIRPORT,South of Market
+Fire,CHIEF,Bayview Hunters Point
+Fire,CHIEF,Bernal Heights
+Fire,CHIEF,Castro/Upper Market
+Fire,CHIEF,Chinatown
+Fire,CHIEF,Excelsior
+Fire,CHIEF,Financial District/South Beach
+Fire,CHIEF,Glen Park
+Fire,CHIEF,Golden Gate Park
+Fire,CHIEF,Haight Ashbury
+Fire,CHIEF,Hayes Valley
+Fire,CHIEF,Inner Richmond
+Fire,CHIEF,Inner Sunset
+Fire,CHIEF,Japantown
+Fire,CHIEF,Lakeshore
+Fire,CHIEF,Lincoln Park
+Fire,CHIEF,Lone Mountain/USF
+Fire,CHIEF,Marina
+Fire,CHIEF,McLaren Park
+Fire,CHIEF,Mission
+Fire,CHIEF,Mission Bay
+Fire,CHIEF,Nob Hill
+Fire,CHIEF,Noe Valley
+Fire,CHIEF,North Beach
+Fire,CHIEF,Oceanview/Merced/Ingleside
+Fire,CHIEF,Outer Mission
+Fire,CHIEF,Outer Richmond
+Fire,CHIEF,Pacific Heights
+Fire,CHIEF,Portola
+Fire,CHIEF,Potrero Hill
+Fire,CHIEF,Presidio
+Fire,CHIEF,Presidio Heights
+Fire,CHIEF,Russian Hill
+Fire,CHIEF,Seacliff
+Fire,CHIEF,South of Market
+Fire,CHIEF,Sunset/Parkside
+Fire,CHIEF,Tenderloin
+Fire,CHIEF,Treasure Island
+Fire,CHIEF,Twin Peaks
+Fire,CHIEF,Visitacion Valley
+Fire,CHIEF,Western Addition
+Fire,CHIEF,West of Twin Peaks
+Fire,ENGINE,Bayview Hunters Point
+Fire,ENGINE,Bernal Heights
+Fire,ENGINE,Castro/Upper Market
+Fire,ENGINE,Chinatown
+Fire,ENGINE,Excelsior
+Fire,ENGINE,Financial District/South Beach
+Fire,ENGINE,Glen Park
+Fire,ENGINE,Golden Gate Park
+Fire,ENGINE,Haight Ashbury
+Fire,ENGINE,Hayes Valley
+Fire,ENGINE,Inner Richmond
+Fire,ENGINE,Inner Sunset
+Fire,ENGINE,Japantown
+Fire,ENGINE,Lakeshore
+Fire,ENGINE,Lincoln Park
+Fire,ENGINE,Lone Mountain/USF
+Fire,ENGINE,Marina
+Fire,ENGINE,McLaren Park
+Fire,ENGINE,Mission
+Fire,ENGINE,Mission Bay
+Fire,ENGINE,Nob Hill
+Fire,ENGINE,Noe Valley
+Fire,ENGINE,North Beach
+Fire,ENGINE,Oceanview/Merced/Ingleside
+Fire,ENGINE,Outer Mission
+Fire,ENGINE,Outer Richmond
+Fire,ENGINE,Pacific Heights
+Fire,ENGINE,Portola
+Fire,ENGINE,Potrero Hill
+Fire,ENGINE,Presidio
+Fire,ENGINE,Presidio Heights
+Fire,ENGINE,Russian Hill
+Fire,ENGINE,Seacliff
+Fire,ENGINE,South of Market
+Fire,ENGINE,Sunset/Parkside
+Fire,ENGINE,Tenderloin
+Fire,ENGINE,Treasure Island
+Fire,ENGINE,Twin Peaks
+Fire,ENGINE,Visitacion Valley
+Fire,ENGINE,Western Addition
+Fire,ENGINE,West of Twin Peaks
+Fire,INVESTIGATION,Bayview Hunters Point
+Fire,INVESTIGATION,Bernal Heights
+Fire,INVESTIGATION,Castro/Upper Market
+Fire,INVESTIGATION,Chinatown
+Fire,INVESTIGATION,Excelsior
+Fire,INVESTIGATION,Financial District/South Beach
+Fire,INVESTIGATION,Glen Park
+Fire,INVESTIGATION,Golden Gate Park
+Fire,INVESTIGATION,Haight Ashbury
+Fire,INVESTIGATION,Hayes Valley
+Fire,INVESTIGATION,Inner Richmond
+Fire,INVESTIGATION,Inner Sunset
+Fire,INVESTIGATION,Japantown
+Fire,INVESTIGATION,Lakeshore
+Fire,INVESTIGATION,Lincoln Park
+Fire,INVESTIGATION,Lone Mountain/USF
+Fire,INVESTIGATION,Marina
+Fire,INVESTIGATION,McLaren Park
+Fire,INVESTIGATION,Mission
+Fire,INVESTIGATION,Mission Bay
+Fire,INVESTIGATION,Nob Hill
+Fire,INVESTIGATION,Noe Valley
+Fire,INVESTIGATION,North Beach
+Fire,INVESTIGATION,Oceanview/Merced/Ingleside
+Fire,INVESTIGATION,Outer Mission
+Fire,INVESTIGATION,Outer Richmond
+Fire,INVESTIGATION,Pacific Heights
+Fire,INVESTIGATION,Portola
+Fire,INVESTIGATION,Potrero Hill
+Fire,INVESTIGATION,Presidio
+Fire,INVESTIGATION,Presidio Heights
+Fire,INVESTIGATION,Russian Hill
+Fire,INVESTIGATION,Seacliff
+Fire,INVESTIGATION,South of Market
+Fire,INVESTIGATION,Sunset/Parkside
+Fire,INVESTIGATION,Tenderloin
+Fire,INVESTIGATION,Treasure Island
+Fire,INVESTIGATION,Twin Peaks
+Fire,INVESTIGATION,Visitacion Valley
+Fire,INVESTIGATION,Western Addition
+Fire,INVESTIGATION,West of Twin Peaks
+Fire,MEDIC,Bayview Hunters Point
+Fire,MEDIC,Bernal Heights
+Fire,MEDIC,Castro/Upper Market
+Fire,MEDIC,Chinatown
+Fire,MEDIC,Excelsior
+Fire,MEDIC,Financial District/South Beach
+Fire,MEDIC,Glen Park
+Fire,MEDIC,Golden Gate Park
+Fire,MEDIC,Haight Ashbury
+Fire,MEDIC,Hayes Valley
+Fire,MEDIC,Inner Richmond
+Fire,MEDIC,Inner Sunset
+Fire,MEDIC,Japantown
+Fire,MEDIC,Lakeshore
+Fire,MEDIC,Lincoln Park
+Fire,MEDIC,Lone Mountain/USF
+Fire,MEDIC,Marina
+Fire,MEDIC,McLaren Park
+Fire,MEDIC,Mission
+Fire,MEDIC,Mission Bay
+Fire,MEDIC,Nob Hill
+Fire,MEDIC,Noe Valley
+Fire,MEDIC,North Beach
+Fire,MEDIC,Oceanview/Merced/Ingleside
+Fire,MEDIC,Outer Mission
+Fire,MEDIC,Outer Richmond
+Fire,MEDIC,Pacific Heights
+Fire,MEDIC,Portola
+Fire,MEDIC,Potrero Hill
+Fire,MEDIC,Presidio
+Fire,MEDIC,Presidio Heights
+Fire,MEDIC,Russian Hill
+Fire,MEDIC,Seacliff
+Fire,MEDIC,South of Market
+Fire,MEDIC,Sunset/Parkside
+Fire,MEDIC,Tenderloin
+Fire,MEDIC,Treasure Island
+Fire,MEDIC,Twin Peaks
+Fire,MEDIC,Visitacion Valley
+Fire,MEDIC,Western Addition
+Fire,MEDIC,West of Twin Peaks
+Fire,PRIVATE,Bayview Hunters Point
+Fire,PRIVATE,Bernal Heights
+Fire,PRIVATE,Castro/Upper Market
+Fire,PRIVATE,Chinatown
+Fire,PRIVATE,Excelsior
+Fire,PRIVATE,Financial District/South Beach
+Fire,PRIVATE,Glen Park
+Fire,PRIVATE,Golden Gate Park
+Fire,PRIVATE,Haight Ashbury
+Fire,PRIVATE,Hayes Valley
+Fire,PRIVATE,Inner Richmond
+Fire,PRIVATE,Inner Sunset
+Fire,PRIVATE,Japantown
+Fire,PRIVATE,Lakeshore
+Fire,PRIVATE,Lincoln Park
+Fire,PRIVATE,Lone Mountain/USF
+Fire,PRIVATE,Marina
+Fire,PRIVATE,Mission
+Fire,PRIVATE,Mission Bay
+Fire,PRIVATE,Nob Hill
+Fire,PRIVATE,Noe Valley
+Fire,PRIVATE,North Beach
+Fire,PRIVATE,Oceanview/Merced/Ingleside
+Fire,PRIVATE,Outer Mission
+Fire,PRIVATE,Outer Richmond
+Fire,PRIVATE,Pacific Heights
+Fire,PRIVATE,Portola
+Fire,PRIVATE,Potrero Hill
+Fire,PRIVATE,Presidio
+Fire,PRIVATE,Presidio Heights
+Fire,PRIVATE,Russian Hill
+Fire,PRIVATE,Seacliff
+Fire,PRIVATE,South of Market
+Fire,PRIVATE,Sunset/Parkside
+Fire,PRIVATE,Tenderloin
+Fire,PRIVATE,Treasure Island
+Fire,PRIVATE,Twin Peaks
+Fire,PRIVATE,Visitacion Valley
+Fire,PRIVATE,Western Addition
+Fire,PRIVATE,West of Twin Peaks
+Fire,RESCUE CAPTAIN,Bayview Hunters Point
+Fire,RESCUE CAPTAIN,Bernal Heights
+Fire,RESCUE CAPTAIN,Castro/Upper Market
+Fire,RESCUE CAPTAIN,Chinatown
+Fire,RESCUE CAPTAIN,Excelsior
+Fire,RESCUE CAPTAIN,Financial District/South Beach
+Fire,RESCUE CAPTAIN,Glen Park
+Fire,RESCUE CAPTAIN,Golden Gate Park
+Fire,RESCUE CAPTAIN,Haight Ashbury
+Fire,RESCUE CAPTAIN,Hayes Valley
+Fire,RESCUE CAPTAIN,Inner Richmond
+Fire,RESCUE CAPTAIN,Inner Sunset
+Fire,RESCUE CAPTAIN,Japantown
+Fire,RESCUE CAPTAIN,Lakeshore
+Fire,RESCUE CAPTAIN,Lincoln Park
+Fire,RESCUE CAPTAIN,Lone Mountain/USF
+Fire,RESCUE CAPTAIN,Marina
+Fire,RESCUE CAPTAIN,McLaren Park
+Fire,RESCUE CAPTAIN,Mission
+Fire,RESCUE CAPTAIN,Mission Bay
+Fire,RESCUE CAPTAIN,Nob Hill
+Fire,RESCUE CAPTAIN,Noe Valley
+Fire,RESCUE CAPTAIN,North Beach
+Fire,RESCUE CAPTAIN,Oceanview/Merced/Ingleside
+Fire,RESCUE CAPTAIN,Outer Mission
+Fire,RESCUE CAPTAIN,Outer Richmond
+Fire,RESCUE CAPTAIN,Pacific Heights
+Fire,RESCUE CAPTAIN,Portola
+Fire,RESCUE CAPTAIN,Potrero Hill
+Fire,RESCUE CAPTAIN,Presidio
+Fire,RESCUE CAPTAIN,Presidio Heights
+Fire,RESCUE CAPTAIN,Russian Hill
+Fire,RESCUE CAPTAIN,Seacliff
+Fire,RESCUE CAPTAIN,South of Market
+Fire,RESCUE CAPTAIN,Sunset/Parkside
+Fire,RESCUE CAPTAIN,Tenderloin
+Fire,RESCUE CAPTAIN,Treasure Island
+Fire,RESCUE CAPTAIN,Twin Peaks
+Fire,RESCUE CAPTAIN,Visitacion Valley
+Fire,RESCUE CAPTAIN,Western Addition
+Fire,RESCUE CAPTAIN,West of Twin Peaks
+Fire,RESCUE SQUAD,Bayview Hunters Point
+Fire,RESCUE SQUAD,Bernal Heights
+Fire,RESCUE SQUAD,Castro/Upper Market
+Fire,RESCUE SQUAD,Chinatown
+Fire,RESCUE SQUAD,Excelsior
+Fire,RESCUE SQUAD,Financial District/South Beach
+Fire,RESCUE SQUAD,Glen Park
+Fire,RESCUE SQUAD,Golden Gate Park
+Fire,RESCUE SQUAD,Haight Ashbury
+Fire,RESCUE SQUAD,Hayes Valley
+Fire,RESCUE SQUAD,Inner Richmond
+Fire,RESCUE SQUAD,Inner Sunset
+Fire,RESCUE SQUAD,Japantown
+Fire,RESCUE SQUAD,Lakeshore
+Fire,RESCUE SQUAD,Lincoln Park
+Fire,RESCUE SQUAD,Lone Mountain/USF
+Fire,RESCUE SQUAD,Marina
+Fire,RESCUE SQUAD,McLaren Park
+Fire,RESCUE SQUAD,Mission
+Fire,RESCUE SQUAD,Mission Bay
+Fire,RESCUE SQUAD,Nob Hill
+Fire,RESCUE SQUAD,Noe Valley
+Fire,RESCUE SQUAD,North Beach
+Fire,RESCUE SQUAD,Oceanview/Merced/Ingleside
+Fire,RESCUE SQUAD,Outer Mission
+Fire,RESCUE SQUAD,Outer Richmond
+Fire,RESCUE SQUAD,Pacific Heights
+Fire,RESCUE SQUAD,Portola
+Fire,RESCUE SQUAD,Potrero Hill
+Fire,RESCUE SQUAD,Presidio
+Fire,RESCUE SQUAD,Presidio Heights
+Fire,RESCUE SQUAD,Russian Hill
+Fire,RESCUE SQUAD,Seacliff
+Fire,RESCUE SQUAD,South of Market
+Fire,RESCUE SQUAD,Sunset/Parkside
+Fire,RESCUE SQUAD,Tenderloin
+Fire,RESCUE SQUAD,Treasure Island
+Fire,RESCUE SQUAD,Twin Peaks
+Fire,RESCUE SQUAD,Visitacion Valley
+Fire,RESCUE SQUAD,Western Addition
+Fire,RESCUE SQUAD,West of Twin Peaks
+Fire,SUPPORT,Bayview Hunters Point
+Fire,SUPPORT,Bernal Heights
+Fire,SUPPORT,Castro/Upper Market
+Fire,SUPPORT,Chinatown
+Fire,SUPPORT,Excelsior
+Fire,SUPPORT,Financial District/South Beach
+Fire,SUPPORT,Glen Park
+Fire,SUPPORT,Golden Gate Park
+Fire,SUPPORT,Haight Ashbury
+Fire,SUPPORT,Hayes Valley
+Fire,SUPPORT,Inner Richmond
+Fire,SUPPORT,Inner Sunset
+Fire,SUPPORT,Lakeshore
+Fire,SUPPORT,Lincoln Park
+Fire,SUPPORT,Lone Mountain/USF
+Fire,SUPPORT,Marina
+Fire,SUPPORT,McLaren Park
+Fire,SUPPORT,Mission
+Fire,SUPPORT,Mission Bay
+Fire,SUPPORT,Nob Hill
+Fire,SUPPORT,Noe Valley
+Fire,SUPPORT,North Beach
+Fire,SUPPORT,Oceanview/Merced/Ingleside
+Fire,SUPPORT,Outer Mission
+Fire,SUPPORT,Outer Richmond
+Fire,SUPPORT,Pacific Heights
+Fire,SUPPORT,Portola
+Fire,SUPPORT,Potrero Hill
+Fire,SUPPORT,Presidio
+Fire,SUPPORT,Presidio Heights
+Fire,SUPPORT,Russian Hill
+Fire,SUPPORT,Seacliff
+Fire,SUPPORT,South of Market
+Fire,SUPPORT,Sunset/Parkside
+Fire,SUPPORT,Tenderloin
+Fire,SUPPORT,Treasure Island
+Fire,SUPPORT,Twin Peaks
+Fire,SUPPORT,Visitacion Valley
+Fire,SUPPORT,Western Addition
+Fire,SUPPORT,West of Twin Peaks
+Fire,TRUCK,Bayview Hunters Point
+Fire,TRUCK,Bernal Heights
+Fire,TRUCK,Castro/Upper Market
+Fire,TRUCK,Chinatown
+Fire,TRUCK,Excelsior
+Fire,TRUCK,Financial District/South Beach
+Fire,TRUCK,Glen Park
+Fire,TRUCK,Golden Gate Park
+Fire,TRUCK,Haight Ashbury
+Fire,TRUCK,Hayes Valley
+Fire,TRUCK,Inner Richmond
+Fire,TRUCK,Inner Sunset
+Fire,TRUCK,Japantown
+Fire,TRUCK,Lakeshore
+Fire,TRUCK,Lincoln Park
+Fire,TRUCK,Lone Mountain/USF
+Fire,TRUCK,Marina
+Fire,TRUCK,McLaren Park
+Fire,TRUCK,Mission
+Fire,TRUCK,Mission Bay
+Fire,TRUCK,Nob Hill
+Fire,TRUCK,Noe Valley
+Fire,TRUCK,North Beach
+Fire,TRUCK,Oceanview/Merced/Ingleside
+Fire,TRUCK,Outer Mission
+Fire,TRUCK,Outer Richmond
+Fire,TRUCK,Pacific Heights
+Fire,TRUCK,Portola
+Fire,TRUCK,Potrero Hill
+Fire,TRUCK,Presidio
+Fire,TRUCK,Presidio Heights
+Fire,TRUCK,Russian Hill
+Fire,TRUCK,Seacliff
+Fire,TRUCK,South of Market
+Fire,TRUCK,Sunset/Parkside
+Fire,TRUCK,Tenderloin
+Fire,TRUCK,Treasure Island
+Fire,TRUCK,Twin Peaks
+Fire,TRUCK,Visitacion Valley
+Fire,TRUCK,Western Addition
+Fire,TRUCK,West of Twin Peaks
+Non Life-threatening,AIRPORT,Bernal Heights
+Non Life-threatening,AIRPORT,Mission
+Non Life-threatening,AIRPORT,Mission Bay
+Non Life-threatening,AIRPORT,Twin Peaks
+Non Life-threatening,CHIEF,Bayview Hunters Point
+Non Life-threatening,CHIEF,Bernal Heights
+Non Life-threatening,CHIEF,Castro/Upper Market
+Non Life-threatening,CHIEF,Chinatown
+Non Life-threatening,CHIEF,Excelsior
+Non Life-threatening,CHIEF,Financial District/South Beach
+Non Life-threatening,CHIEF,Glen Park
+Non Life-threatening,CHIEF,Golden Gate Park
+Non Life-threatening,CHIEF,Haight Ashbury
+Non Life-threatening,CHIEF,Hayes Valley
+Non Life-threatening,CHIEF,Inner Richmond
+Non Life-threatening,CHIEF,Inner Sunset
+Non Life-threatening,CHIEF,Japantown
+Non Life-threatening,CHIEF,Lakeshore
+Non Life-threatening,CHIEF,Lincoln Park
+Non Life-threatening,CHIEF,Lone Mountain/USF
+Non Life-threatening,CHIEF,Marina
+Non Life-threatening,CHIEF,McLaren Park
+Non Life-threatening,CHIEF,Mission
+Non Life-threatening,CHIEF,Mission Bay
+Non Life-threatening,CHIEF,Nob Hill
+Non Life-threatening,CHIEF,Noe Valley
+Non Life-threatening,CHIEF,North Beach
+Non Life-threatening,CHIEF,Oceanview/Merced/Ingleside
+Non Life-threatening,CHIEF,Outer Mission
+Non Life-threatening,CHIEF,Outer Richmond
+Non Life-threatening,CHIEF,Pacific Heights
+Non Life-threatening,CHIEF,Portola
+Non Life-threatening,CHIEF,Potrero Hill
+Non Life-threatening,CHIEF,Presidio
+Non Life-threatening,CHIEF,Presidio Heights
+Non Life-threatening,CHIEF,Russian Hill
+Non Life-threatening,CHIEF,Seacliff
+Non Life-threatening,CHIEF,South of Market
+Non Life-threatening,CHIEF,Sunset/Parkside
+Non Life-threatening,CHIEF,Tenderloin
+Non Life-threatening,CHIEF,Treasure Island
+Non Life-threatening,CHIEF,Twin Peaks
+Non Life-threatening,CHIEF,Visitacion Valley
+Non Life-threatening,CHIEF,Western Addition
+Non Life-threatening,CHIEF,West of Twin Peaks
+Non Life-threatening,ENGINE,Bayview Hunters Point
+Non Life-threatening,ENGINE,Bernal Heights
+Non Life-threatening,ENGINE,Castro/Upper Market
+Non Life-threatening,ENGINE,Chinatown
+Non Life-threatening,ENGINE,Excelsior
+Non Life-threatening,ENGINE,Financial District/South Beach
+Non Life-threatening,ENGINE,Glen Park
+Non Life-threatening,ENGINE,Golden Gate Park
+Non Life-threatening,ENGINE,Haight Ashbury
+Non Life-threatening,ENGINE,Hayes Valley
+Non Life-threatening,ENGINE,Inner Richmond
+Non Life-threatening,ENGINE,Inner Sunset
+Non Life-threatening,ENGINE,Japantown
+Non Life-threatening,ENGINE,Lakeshore
+Non Life-threatening,ENGINE,Lincoln Park
+Non Life-threatening,ENGINE,Lone Mountain/USF
+Non Life-threatening,ENGINE,Marina
+Non Life-threatening,ENGINE,McLaren Park
+Non Life-threatening,ENGINE,Mission
+Non Life-threatening,ENGINE,Mission Bay
+Non Life-threatening,ENGINE,Nob Hill
+Non Life-threatening,ENGINE,Noe Valley
+Non Life-threatening,ENGINE,North Beach
+Non Life-threatening,ENGINE,Oceanview/Merced/Ingleside
+Non Life-threatening,ENGINE,Outer Mission
+Non Life-threatening,ENGINE,Outer Richmond
+Non Life-threatening,ENGINE,Pacific Heights
+Non Life-threatening,ENGINE,Portola
+Non Life-threatening,ENGINE,Potrero Hill
+Non Life-threatening,ENGINE,Presidio
+Non Life-threatening,ENGINE,Presidio Heights
+Non Life-threatening,ENGINE,Russian Hill
+Non Life-threatening,ENGINE,Seacliff
+Non Life-threatening,ENGINE,South of Market
+Non Life-threatening,ENGINE,Sunset/Parkside
+Non Life-threatening,ENGINE,Tenderloin
+Non Life-threatening,ENGINE,Treasure Island
+Non Life-threatening,ENGINE,Twin Peaks
+Non Life-threatening,ENGINE,Visitacion Valley
+Non Life-threatening,ENGINE,Western Addition
+Non Life-threatening,ENGINE,West of Twin Peaks
+Non Life-threatening,INVESTIGATION,Bayview Hunters Point
+Non Life-threatening,INVESTIGATION,Castro/Upper Market
+Non Life-threatening,INVESTIGATION,Excelsior
+Non Life-threatening,INVESTIGATION,Financial District/South Beach
+Non Life-threatening,INVESTIGATION,Hayes Valley
+Non Life-threatening,INVESTIGATION,Marina
+Non Life-threatening,INVESTIGATION,Mission
+Non Life-threatening,INVESTIGATION,Mission Bay
+Non Life-threatening,INVESTIGATION,Nob Hill
+Non Life-threatening,INVESTIGATION,Outer Mission
+Non Life-threatening,INVESTIGATION,Outer Richmond
+Non Life-threatening,INVESTIGATION,Pacific Heights
+Non Life-threatening,INVESTIGATION,South of Market
+Non Life-threatening,INVESTIGATION,Tenderloin
+Non Life-threatening,INVESTIGATION,West of Twin Peaks
+Non Life-threatening,MEDIC,Bayview Hunters Point
+Non Life-threatening,MEDIC,Bernal Heights
+Non Life-threatening,MEDIC,Castro/Upper Market
+Non Life-threatening,MEDIC,Chinatown
+Non Life-threatening,MEDIC,Excelsior
+Non Life-threatening,MEDIC,Financial District/South Beach
+Non Life-threatening,MEDIC,Glen Park
+Non Life-threatening,MEDIC,Golden Gate Park
+Non Life-threatening,MEDIC,Haight Ashbury
+Non Life-threatening,MEDIC,Hayes Valley
+Non Life-threatening,MEDIC,Inner Richmond
+Non Life-threatening,MEDIC,Inner Sunset
+Non Life-threatening,MEDIC,Japantown
+Non Life-threatening,MEDIC,Lakeshore
+Non Life-threatening,MEDIC,Lincoln Park
+Non Life-threatening,MEDIC,Lone Mountain/USF
+Non Life-threatening,MEDIC,Marina
+Non Life-threatening,MEDIC,McLaren Park
+Non Life-threatening,MEDIC,Mission
+Non Life-threatening,MEDIC,Mission Bay
+Non Life-threatening,MEDIC,Nob Hill
+Non Life-threatening,MEDIC,Noe Valley
+Non Life-threatening,MEDIC,North Beach
+Non Life-threatening,MEDIC,Oceanview/Merced/Ingleside
+Non Life-threatening,MEDIC,Outer Mission
+Non Life-threatening,MEDIC,Outer Richmond
+Non Life-threatening,MEDIC,Pacific Heights
+Non Life-threatening,MEDIC,Portola
+Non Life-threatening,MEDIC,Potrero Hill
+Non Life-threatening,MEDIC,Presidio
+Non Life-threatening,MEDIC,Presidio Heights
+Non Life-threatening,MEDIC,Russian Hill
+Non Life-threatening,MEDIC,Seacliff
+Non Life-threatening,MEDIC,South of Market
+Non Life-threatening,MEDIC,Sunset/Parkside
+Non Life-threatening,MEDIC,Tenderloin
+Non Life-threatening,MEDIC,Treasure Island
+Non Life-threatening,MEDIC,Twin Peaks
+Non Life-threatening,MEDIC,Visitacion Valley
+Non Life-threatening,MEDIC,Western Addition
+Non Life-threatening,MEDIC,West of Twin Peaks
+Non Life-threatening,PRIVATE,Bayview Hunters Point
+Non Life-threatening,PRIVATE,Bernal Heights
+Non Life-threatening,PRIVATE,Castro/Upper Market
+Non Life-threatening,PRIVATE,Chinatown
+Non Life-threatening,PRIVATE,Excelsior
+Non Life-threatening,PRIVATE,Financial District/South Beach
+Non Life-threatening,PRIVATE,Glen Park
+Non Life-threatening,PRIVATE,Golden Gate Park
+Non Life-threatening,PRIVATE,Haight Ashbury
+Non Life-threatening,PRIVATE,Hayes Valley
+Non Life-threatening,PRIVATE,Inner Richmond
+Non Life-threatening,PRIVATE,Inner Sunset
+Non Life-threatening,PRIVATE,Japantown
+Non Life-threatening,PRIVATE,Lakeshore
+Non Life-threatening,PRIVATE,Lincoln Park
+Non Life-threatening,PRIVATE,Lone Mountain/USF
+Non Life-threatening,PRIVATE,Marina
+Non Life-threatening,PRIVATE,McLaren Park
+Non Life-threatening,PRIVATE,Mission
+Non Life-threatening,PRIVATE,Mission Bay
+Non Life-threatening,PRIVATE,Nob Hill
+Non Life-threatening,PRIVATE,Noe Valley
+Non Life-threatening,PRIVATE,North Beach
+Non Life-threatening,PRIVATE,Oceanview/Merced/Ingleside
+Non Life-threatening,PRIVATE,Outer Mission
+Non Life-threatening,PRIVATE,Outer Richmond
+Non Life-threatening,PRIVATE,Pacific Heights
+Non Life-threatening,PRIVATE,Portola
+Non Life-threatening,PRIVATE,Potrero Hill
+Non Life-threatening,PRIVATE,Presidio
+Non Life-threatening,PRIVATE,Presidio Heights
+Non Life-threatening,PRIVATE,Russian Hill
+Non Life-threatening,PRIVATE,Seacliff
+Non Life-threatening,PRIVATE,South of Market
+Non Life-threatening,PRIVATE,Sunset/Parkside
+Non Life-threatening,PRIVATE,Tenderloin
+Non Life-threatening,PRIVATE,Treasure Island
+Non Life-threatening,PRIVATE,Twin Peaks
+Non Life-threatening,PRIVATE,Visitacion Valley
+Non Life-threatening,PRIVATE,Western Addition
+Non Life-threatening,PRIVATE,West of Twin Peaks
+Non Life-threatening,RESCUE CAPTAIN,Bayview Hunters Point
+Non Life-threatening,RESCUE CAPTAIN,Bernal Heights
+Non Life-threatening,RESCUE CAPTAIN,Castro/Upper Market
+Non Life-threatening,RESCUE CAPTAIN,Chinatown
+Non Life-threatening,RESCUE CAPTAIN,Excelsior
+Non Life-threatening,RESCUE CAPTAIN,Financial District/South Beach
+Non Life-threatening,RESCUE CAPTAIN,Glen Park
+Non Life-threatening,RESCUE CAPTAIN,Golden Gate Park
+Non Life-threatening,RESCUE CAPTAIN,Haight Ashbury
+Non Life-threatening,RESCUE CAPTAIN,Hayes Valley
+Non Life-threatening,RESCUE CAPTAIN,Inner Richmond
+Non Life-threatening,RESCUE CAPTAIN,Inner Sunset
+Non Life-threatening,RESCUE CAPTAIN,Japantown
+Non Life-threatening,RESCUE CAPTAIN,Lakeshore
+Non Life-threatening,RESCUE CAPTAIN,Lincoln Park
+Non Life-threatening,RESCUE CAPTAIN,Lone Mountain/USF
+Non Life-threatening,RESCUE CAPTAIN,Marina
+Non Life-threatening,RESCUE CAPTAIN,McLaren Park
+Non Life-threatening,RESCUE CAPTAIN,Mission
+Non Life-threatening,RESCUE CAPTAIN,Mission Bay
+Non Life-threatening,RESCUE CAPTAIN,Nob Hill
+Non Life-threatening,RESCUE CAPTAIN,Noe Valley
+Non Life-threatening,RESCUE CAPTAIN,North Beach
+Non Life-threatening,RESCUE CAPTAIN,Oceanview/Merced/Ingleside
+Non Life-threatening,RESCUE CAPTAIN,Outer Mission
+Non Life-threatening,RESCUE CAPTAIN,Outer Richmond
+Non Life-threatening,RESCUE CAPTAIN,Pacific Heights
+Non Life-threatening,RESCUE CAPTAIN,Portola
+Non Life-threatening,RESCUE CAPTAIN,Potrero Hill
+Non Life-threatening,RESCUE CAPTAIN,Presidio
+Non Life-threatening,RESCUE CAPTAIN,Presidio Heights
+Non Life-threatening,RESCUE CAPTAIN,Russian Hill
+Non Life-threatening,RESCUE CAPTAIN,Seacliff
+Non Life-threatening,RESCUE CAPTAIN,South of Market
+Non Life-threatening,RESCUE CAPTAIN,Sunset/Parkside
+Non Life-threatening,RESCUE CAPTAIN,Tenderloin
+Non Life-threatening,RESCUE CAPTAIN,Treasure Island
+Non Life-threatening,RESCUE CAPTAIN,Twin Peaks
+Non Life-threatening,RESCUE CAPTAIN,Visitacion Valley
+Non Life-threatening,RESCUE CAPTAIN,Western Addition
+Non Life-threatening,RESCUE CAPTAIN,West of Twin Peaks
+Non Life-threatening,RESCUE SQUAD,Bayview Hunters Point
+Non Life-threatening,RESCUE SQUAD,Bernal Heights
+Non Life-threatening,RESCUE SQUAD,Castro/Upper Market
+Non Life-threatening,RESCUE SQUAD,Chinatown
+Non Life-threatening,RESCUE SQUAD,Excelsior
+Non Life-threatening,RESCUE SQUAD,Financial District/South Beach
+Non Life-threatening,RESCUE SQUAD,Glen Park
+Non Life-threatening,RESCUE SQUAD,Golden Gate Park
+Non Life-threatening,RESCUE SQUAD,Haight Ashbury
+Non Life-threatening,RESCUE SQUAD,Hayes Valley
+Non Life-threatening,RESCUE SQUAD,Inner Richmond
+Non Life-threatening,RESCUE SQUAD,Inner Sunset
+Non Life-threatening,RESCUE SQUAD,Japantown
+Non Life-threatening,RESCUE SQUAD,Lakeshore
+Non Life-threatening,RESCUE SQUAD,Lone Mountain/USF
+Non Life-threatening,RESCUE SQUAD,Marina
+Non Life-threatening,RESCUE SQUAD,McLaren Park
+Non Life-threatening,RESCUE SQUAD,Mission
+Non Life-threatening,RESCUE SQUAD,Mission Bay
+Non Life-threatening,RESCUE SQUAD,Nob Hill
+Non Life-threatening,RESCUE SQUAD,Noe Valley
+Non Life-threatening,RESCUE SQUAD,North Beach
+Non Life-threatening,RESCUE SQUAD,Oceanview/Merced/Ingleside
+Non Life-threatening,RESCUE SQUAD,Outer Mission
+Non Life-threatening,RESCUE SQUAD,Outer Richmond
+Non Life-threatening,RESCUE SQUAD,Pacific Heights
+Non Life-threatening,RESCUE SQUAD,Portola
+Non Life-threatening,RESCUE SQUAD,Potrero Hill
+Non Life-threatening,RESCUE SQUAD,Presidio
+Non Life-threatening,RESCUE SQUAD,Presidio Heights
+Non Life-threatening,RESCUE SQUAD,Russian Hill
+Non Life-threatening,RESCUE SQUAD,Seacliff
+Non Life-threatening,RESCUE SQUAD,South of Market
+Non Life-threatening,RESCUE SQUAD,Sunset/Parkside
+Non Life-threatening,RESCUE SQUAD,Tenderloin
+Non Life-threatening,RESCUE SQUAD,Treasure Island
+Non Life-threatening,RESCUE SQUAD,Twin Peaks
+Non Life-threatening,RESCUE SQUAD,Visitacion Valley
+Non Life-threatening,RESCUE SQUAD,Western Addition
+Non Life-threatening,RESCUE SQUAD,West of Twin Peaks
+Non Life-threatening,SUPPORT,Bayview Hunters Point
+Non Life-threatening,SUPPORT,Bernal Heights
+Non Life-threatening,SUPPORT,Castro/Upper Market
+Non Life-threatening,SUPPORT,Chinatown
+Non Life-threatening,SUPPORT,Excelsior
+Non Life-threatening,SUPPORT,Financial District/South Beach
+Non Life-threatening,SUPPORT,Glen Park
+Non Life-threatening,SUPPORT,Golden Gate Park
+Non Life-threatening,SUPPORT,Haight Ashbury
+Non Life-threatening,SUPPORT,Hayes Valley
+Non Life-threatening,SUPPORT,Inner Richmond
+Non Life-threatening,SUPPORT,Inner Sunset
+Non Life-threatening,SUPPORT,Japantown
+Non Life-threatening,SUPPORT,Lakeshore
+Non Life-threatening,SUPPORT,Lincoln Park
+Non Life-threatening,SUPPORT,Lone Mountain/USF
+Non Life-threatening,SUPPORT,Marina
+Non Life-threatening,SUPPORT,McLaren Park
+Non Life-threatening,SUPPORT,Mission
+Non Life-threatening,SUPPORT,Mission Bay
+Non Life-threatening,SUPPORT,Nob Hill
+Non Life-threatening,SUPPORT,North Beach
+Non Life-threatening,SUPPORT,Oceanview/Merced/Ingleside
+Non Life-threatening,SUPPORT,Outer Mission
+Non Life-threatening,SUPPORT,Outer Richmond
+Non Life-threatening,SUPPORT,Pacific Heights
+Non Life-threatening,SUPPORT,Portola
+Non Life-threatening,SUPPORT,Potrero Hill
+Non Life-threatening,SUPPORT,Presidio
+Non Life-threatening,SUPPORT,Presidio Heights
+Non Life-threatening,SUPPORT,Russian Hill
+Non Life-threatening,SUPPORT,Seacliff
+Non Life-threatening,SUPPORT,South of Market
+Non Life-threatening,SUPPORT,Sunset/Parkside
+Non Life-threatening,SUPPORT,Tenderloin
+Non Life-threatening,SUPPORT,Treasure Island
+Non Life-threatening,SUPPORT,Twin Peaks
+Non Life-threatening,SUPPORT,Visitacion Valley
+Non Life-threatening,SUPPORT,Western Addition
+Non Life-threatening,SUPPORT,West of Twin Peaks
+Non Life-threatening,TRUCK,Bayview Hunters Point
+Non Life-threatening,TRUCK,Bernal Heights
+Non Life-threatening,TRUCK,Castro/Upper Market
+Non Life-threatening,TRUCK,Chinatown
+Non Life-threatening,TRUCK,Excelsior
+Non Life-threatening,TRUCK,Financial District/South Beach
+Non Life-threatening,TRUCK,Glen Park
+Non Life-threatening,TRUCK,Golden Gate Park
+Non Life-threatening,TRUCK,Haight Ashbury
+Non Life-threatening,TRUCK,Hayes Valley
+Non Life-threatening,TRUCK,Inner Richmond
+Non Life-threatening,TRUCK,Inner Sunset
+Non Life-threatening,TRUCK,Japantown
+Non Life-threatening,TRUCK,Lakeshore
+Non Life-threatening,TRUCK,Lincoln Park
+Non Life-threatening,TRUCK,Lone Mountain/USF
+Non Life-threatening,TRUCK,Marina
+Non Life-threatening,TRUCK,McLaren Park
+Non Life-threatening,TRUCK,Mission
+Non Life-threatening,TRUCK,Mission Bay
+Non Life-threatening,TRUCK,Nob Hill
+Non Life-threatening,TRUCK,Noe Valley
+Non Life-threatening,TRUCK,North Beach
+Non Life-threatening,TRUCK,Oceanview/Merced/Ingleside
+Non Life-threatening,TRUCK,Outer Mission
+Non Life-threatening,TRUCK,Outer Richmond
+Non Life-threatening,TRUCK,Pacific Heights
+Non Life-threatening,TRUCK,Portola
+Non Life-threatening,TRUCK,Potrero Hill
+Non Life-threatening,TRUCK,Presidio
+Non Life-threatening,TRUCK,Presidio Heights
+Non Life-threatening,TRUCK,Russian Hill
+Non Life-threatening,TRUCK,Seacliff
+Non Life-threatening,TRUCK,South of Market
+Non Life-threatening,TRUCK,Sunset/Parkside
+Non Life-threatening,TRUCK,Tenderloin
+Non Life-threatening,TRUCK,Treasure Island
+Non Life-threatening,TRUCK,Twin Peaks
+Non Life-threatening,TRUCK,Visitacion Valley
+Non Life-threatening,TRUCK,Western Addition
+Non Life-threatening,TRUCK,West of Twin Peaks
+Potentially Life-Threatening,CHIEF,Bayview Hunters Point
+Potentially Life-Threatening,CHIEF,Bernal Heights
+Potentially Life-Threatening,CHIEF,Castro/Upper Market
+Potentially Life-Threatening,CHIEF,Chinatown
+Potentially Life-Threatening,CHIEF,Excelsior
+Potentially Life-Threatening,CHIEF,Financial District/South Beach
+Potentially Life-Threatening,CHIEF,Glen Park
+Potentially Life-Threatening,CHIEF,Golden Gate Park
+Potentially Life-Threatening,CHIEF,Haight Ashbury
+Potentially Life-Threatening,CHIEF,Hayes Valley
+Potentially Life-Threatening,CHIEF,Inner Richmond
+Potentially Life-Threatening,CHIEF,Inner Sunset
+Potentially Life-Threatening,CHIEF,Japantown
+Potentially Life-Threatening,CHIEF,Lakeshore
+Potentially Life-Threatening,CHIEF,Lincoln Park
+Potentially Life-Threatening,CHIEF,Lone Mountain/USF
+Potentially Life-Threatening,CHIEF,Marina
+Potentially Life-Threatening,CHIEF,McLaren Park
+Potentially Life-Threatening,CHIEF,Mission
+Potentially Life-Threatening,CHIEF,Mission Bay
+Potentially Life-Threatening,CHIEF,Nob Hill
+Potentially Life-Threatening,CHIEF,Noe Valley
+Potentially Life-Threatening,CHIEF,North Beach
+Potentially Life-Threatening,CHIEF,Oceanview/Merced/Ingleside
+Potentially Life-Threatening,CHIEF,Outer Mission
+Potentially Life-Threatening,CHIEF,Outer Richmond
+Potentially Life-Threatening,CHIEF,Pacific Heights
+Potentially Life-Threatening,CHIEF,Portola
+Potentially Life-Threatening,CHIEF,Potrero Hill
+Potentially Life-Threatening,CHIEF,Presidio
+Potentially Life-Threatening,CHIEF,Presidio Heights
+Potentially Life-Threatening,CHIEF,Russian Hill
+Potentially Life-Threatening,CHIEF,Seacliff
+Potentially Life-Threatening,CHIEF,South of Market
+Potentially Life-Threatening,CHIEF,Sunset/Parkside
+Potentially Life-Threatening,CHIEF,Tenderloin
+Potentially Life-Threatening,CHIEF,Treasure Island
+Potentially Life-Threatening,CHIEF,Twin Peaks
+Potentially Life-Threatening,CHIEF,Visitacion Valley
+Potentially Life-Threatening,CHIEF,Western Addition
+Potentially Life-Threatening,CHIEF,West of Twin Peaks
+Potentially Life-Threatening,ENGINE,Bayview Hunters Point
+Potentially Life-Threatening,ENGINE,Bernal Heights
+Potentially Life-Threatening,ENGINE,Castro/Upper Market
+Potentially Life-Threatening,ENGINE,Chinatown
+Potentially Life-Threatening,ENGINE,Excelsior
+Potentially Life-Threatening,ENGINE,Financial District/South Beach
+Potentially Life-Threatening,ENGINE,Glen Park
+Potentially Life-Threatening,ENGINE,Golden Gate Park
+Potentially Life-Threatening,ENGINE,Haight Ashbury
+Potentially Life-Threatening,ENGINE,Hayes Valley
+Potentially Life-Threatening,ENGINE,Inner Richmond
+Potentially Life-Threatening,ENGINE,Inner Sunset
+Potentially Life-Threatening,ENGINE,Japantown
+Potentially Life-Threatening,ENGINE,Lakeshore
+Potentially Life-Threatening,ENGINE,Lincoln Park
+Potentially Life-Threatening,ENGINE,Lone Mountain/USF
+Potentially Life-Threatening,ENGINE,Marina
+Potentially Life-Threatening,ENGINE,McLaren Park
+Potentially Life-Threatening,ENGINE,Mission
+Potentially Life-Threatening,ENGINE,Mission Bay
+Potentially Life-Threatening,ENGINE,Nob Hill
+Potentially Life-Threatening,ENGINE,Noe Valley
+Potentially Life-Threatening,ENGINE,North Beach
+Potentially Life-Threatening,ENGINE,Oceanview/Merced/Ingleside
+Potentially Life-Threatening,ENGINE,Outer Mission
+Potentially Life-Threatening,ENGINE,Outer Richmond
+Potentially Life-Threatening,ENGINE,Pacific Heights
+Potentially Life-Threatening,ENGINE,Portola
+Potentially Life-Threatening,ENGINE,Potrero Hill
+Potentially Life-Threatening,ENGINE,Presidio
+Potentially Life-Threatening,ENGINE,Presidio Heights
+Potentially Life-Threatening,ENGINE,Russian Hill
+Potentially Life-Threatening,ENGINE,Seacliff
+Potentially Life-Threatening,ENGINE,South of Market
+Potentially Life-Threatening,ENGINE,Sunset/Parkside
+Potentially Life-Threatening,ENGINE,Tenderloin
+Potentially Life-Threatening,ENGINE,Treasure Island
+Potentially Life-Threatening,ENGINE,Twin Peaks
+Potentially Life-Threatening,ENGINE,Visitacion Valley
+Potentially Life-Threatening,ENGINE,Western Addition
+Potentially Life-Threatening,ENGINE,West of Twin Peaks
+Potentially Life-Threatening,INVESTIGATION,Bayview Hunters Point
+Potentially Life-Threatening,INVESTIGATION,Bernal Heights
+Potentially Life-Threatening,INVESTIGATION,Castro/Upper Market
+Potentially Life-Threatening,INVESTIGATION,Financial District/South Beach
+Potentially Life-Threatening,INVESTIGATION,Inner Richmond
+Potentially Life-Threatening,INVESTIGATION,Mission
+Potentially Life-Threatening,INVESTIGATION,Portola
+Potentially Life-Threatening,INVESTIGATION,Potrero Hill
+Potentially Life-Threatening,INVESTIGATION,South of Market
+Potentially Life-Threatening,INVESTIGATION,Tenderloin
+Potentially Life-Threatening,INVESTIGATION,Western Addition
+Potentially Life-Threatening,MEDIC,Bayview Hunters Point
+Potentially Life-Threatening,MEDIC,Bernal Heights
+Potentially Life-Threatening,MEDIC,Castro/Upper Market
+Potentially Life-Threatening,MEDIC,Chinatown
+Potentially Life-Threatening,MEDIC,Excelsior
+Potentially Life-Threatening,MEDIC,Financial District/South Beach
+Potentially Life-Threatening,MEDIC,Glen Park
+Potentially Life-Threatening,MEDIC,Golden Gate Park
+Potentially Life-Threatening,MEDIC,Haight Ashbury
+Potentially Life-Threatening,MEDIC,Hayes Valley
+Potentially Life-Threatening,MEDIC,Inner Richmond
+Potentially Life-Threatening,MEDIC,Inner Sunset
+Potentially Life-Threatening,MEDIC,Japantown
+Potentially Life-Threatening,MEDIC,Lakeshore
+Potentially Life-Threatening,MEDIC,Lincoln Park
+Potentially Life-Threatening,MEDIC,Lone Mountain/USF
+Potentially Life-Threatening,MEDIC,Marina
+Potentially Life-Threatening,MEDIC,McLaren Park
+Potentially Life-Threatening,MEDIC,Mission
+Potentially Life-Threatening,MEDIC,Mission Bay
+Potentially Life-Threatening,MEDIC,Nob Hill
+Potentially Life-Threatening,MEDIC,Noe Valley
+Potentially Life-Threatening,MEDIC,North Beach
+Potentially Life-Threatening,MEDIC,Oceanview/Merced/Ingleside
+Potentially Life-Threatening,MEDIC,Outer Mission
+Potentially Life-Threatening,MEDIC,Outer Richmond
+Potentially Life-Threatening,MEDIC,Pacific Heights
+Potentially Life-Threatening,MEDIC,Portola
+Potentially Life-Threatening,MEDIC,Potrero Hill
+Potentially Life-Threatening,MEDIC,Presidio
+Potentially Life-Threatening,MEDIC,Presidio Heights
+Potentially Life-Threatening,MEDIC,Russian Hill
+Potentially Life-Threatening,MEDIC,Seacliff
+Potentially Life-Threatening,MEDIC,South of Market
+Potentially Life-Threatening,MEDIC,Sunset/Parkside
+Potentially Life-Threatening,MEDIC,Tenderloin
+Potentially Life-Threatening,MEDIC,Treasure Island
+Potentially Life-Threatening,MEDIC,Twin Peaks
+Potentially Life-Threatening,MEDIC,Visitacion Valley
+Potentially Life-Threatening,MEDIC,Western Addition
+Potentially Life-Threatening,MEDIC,West of Twin Peaks
+Potentially Life-Threatening,PRIVATE,Bayview Hunters Point
+Potentially Life-Threatening,PRIVATE,Bernal Heights
+Potentially Life-Threatening,PRIVATE,Castro/Upper Market
+Potentially Life-Threatening,PRIVATE,Chinatown
+Potentially Life-Threatening,PRIVATE,Excelsior
+Potentially Life-Threatening,PRIVATE,Financial District/South Beach
+Potentially Life-Threatening,PRIVATE,Glen Park
+Potentially Life-Threatening,PRIVATE,Golden Gate Park
+Potentially Life-Threatening,PRIVATE,Haight Ashbury
+Potentially Life-Threatening,PRIVATE,Hayes Valley
+Potentially Life-Threatening,PRIVATE,Inner Richmond
+Potentially Life-Threatening,PRIVATE,Inner Sunset
+Potentially Life-Threatening,PRIVATE,Japantown
+Potentially Life-Threatening,PRIVATE,Lakeshore
+Potentially Life-Threatening,PRIVATE,Lincoln Park
+Potentially Life-Threatening,PRIVATE,Lone Mountain/USF
+Potentially Life-Threatening,PRIVATE,Marina
+Potentially Life-Threatening,PRIVATE,McLaren Park
+Potentially Life-Threatening,PRIVATE,Mission
+Potentially Life-Threatening,PRIVATE,Mission Bay
+Potentially Life-Threatening,PRIVATE,Nob Hill
+Potentially Life-Threatening,PRIVATE,Noe Valley
+Potentially Life-Threatening,PRIVATE,North Beach
+Potentially Life-Threatening,PRIVATE,Oceanview/Merced/Ingleside
+Potentially Life-Threatening,PRIVATE,Outer Mission
+Potentially Life-Threatening,PRIVATE,Outer Richmond
+Potentially Life-Threatening,PRIVATE,Pacific Heights
+Potentially Life-Threatening,PRIVATE,Portola
+Potentially Life-Threatening,PRIVATE,Potrero Hill
+Potentially Life-Threatening,PRIVATE,Presidio
+Potentially Life-Threatening,PRIVATE,Presidio Heights
+Potentially Life-Threatening,PRIVATE,Russian Hill
+Potentially Life-Threatening,PRIVATE,Seacliff
+Potentially Life-Threatening,PRIVATE,South of Market
+Potentially Life-Threatening,PRIVATE,Sunset/Parkside
+Potentially Life-Threatening,PRIVATE,Tenderloin
+Potentially Life-Threatening,PRIVATE,Treasure Island
+Potentially Life-Threatening,PRIVATE,Twin Peaks
+Potentially Life-Threatening,PRIVATE,Visitacion Valley
+Potentially Life-Threatening,PRIVATE,Western Addition
+Potentially Life-Threatening,PRIVATE,West of Twin Peaks
+Potentially Life-Threatening,RESCUE CAPTAIN,Bayview Hunters Point
+Potentially Life-Threatening,RESCUE CAPTAIN,Bernal Heights
+Potentially Life-Threatening,RESCUE CAPTAIN,Castro/Upper Market
+Potentially Life-Threatening,RESCUE CAPTAIN,Chinatown
+Potentially Life-Threatening,RESCUE CAPTAIN,Excelsior
+Potentially Life-Threatening,RESCUE CAPTAIN,Financial District/South Beach
+Potentially Life-Threatening,RESCUE CAPTAIN,Glen Park
+Potentially Life-Threatening,RESCUE CAPTAIN,Golden Gate Park
+Potentially Life-Threatening,RESCUE CAPTAIN,Haight Ashbury
+Potentially Life-Threatening,RESCUE CAPTAIN,Hayes Valley
+Potentially Life-Threatening,RESCUE CAPTAIN,Inner Richmond
+Potentially Life-Threatening,RESCUE CAPTAIN,Inner Sunset
+Potentially Life-Threatening,RESCUE CAPTAIN,Japantown
+Potentially Life-Threatening,RESCUE CAPTAIN,Lakeshore
+Potentially Life-Threatening,RESCUE CAPTAIN,Lincoln Park
+Potentially Life-Threatening,RESCUE CAPTAIN,Lone Mountain/USF
+Potentially Life-Threatening,RESCUE CAPTAIN,Marina
+Potentially Life-Threatening,RESCUE CAPTAIN,McLaren Park
+Potentially Life-Threatening,RESCUE CAPTAIN,Mission
+Potentially Life-Threatening,RESCUE CAPTAIN,Mission Bay
+Potentially Life-Threatening,RESCUE CAPTAIN,Nob Hill
+Potentially Life-Threatening,RESCUE CAPTAIN,Noe Valley
+Potentially Life-Threatening,RESCUE CAPTAIN,North Beach
+Potentially Life-Threatening,RESCUE CAPTAIN,Oceanview/Merced/Ingleside
+Potentially Life-Threatening,RESCUE CAPTAIN,Outer Mission
+Potentially Life-Threatening,RESCUE CAPTAIN,Outer Richmond
+Potentially Life-Threatening,RESCUE CAPTAIN,Pacific Heights
+Potentially Life-Threatening,RESCUE CAPTAIN,Portola
+Potentially Life-Threatening,RESCUE CAPTAIN,Potrero Hill
+Potentially Life-Threatening,RESCUE CAPTAIN,Presidio
+Potentially Life-Threatening,RESCUE CAPTAIN,Presidio Heights
+Potentially Life-Threatening,RESCUE CAPTAIN,Russian Hill
+Potentially Life-Threatening,RESCUE CAPTAIN,Seacliff
+Potentially Life-Threatening,RESCUE CAPTAIN,South of Market
+Potentially Life-Threatening,RESCUE CAPTAIN,Sunset/Parkside
+Potentially Life-Threatening,RESCUE CAPTAIN,Tenderloin
+Potentially Life-Threatening,RESCUE CAPTAIN,Treasure Island
+Potentially Life-Threatening,RESCUE CAPTAIN,Twin Peaks
+Potentially Life-Threatening,RESCUE CAPTAIN,Visitacion Valley
+Potentially Life-Threatening,RESCUE CAPTAIN,Western Addition
+Potentially Life-Threatening,RESCUE CAPTAIN,West of Twin Peaks
+Potentially Life-Threatening,RESCUE SQUAD,Bayview Hunters Point
+Potentially Life-Threatening,RESCUE SQUAD,Bernal Heights
+Potentially Life-Threatening,RESCUE SQUAD,Castro/Upper Market
+Potentially Life-Threatening,RESCUE SQUAD,Chinatown
+Potentially Life-Threatening,RESCUE SQUAD,Excelsior
+Potentially Life-Threatening,RESCUE SQUAD,Financial District/South Beach
+Potentially Life-Threatening,RESCUE SQUAD,Glen Park
+Potentially Life-Threatening,RESCUE SQUAD,Golden Gate Park
+Potentially Life-Threatening,RESCUE SQUAD,Haight Ashbury
+Potentially Life-Threatening,RESCUE SQUAD,Hayes Valley
+Potentially Life-Threatening,RESCUE SQUAD,Inner Richmond
+Potentially Life-Threatening,RESCUE SQUAD,Inner Sunset
+Potentially Life-Threatening,RESCUE SQUAD,Japantown
+Potentially Life-Threatening,RESCUE SQUAD,Lakeshore
+Potentially Life-Threatening,RESCUE SQUAD,Lincoln Park
+Potentially Life-Threatening,RESCUE SQUAD,Lone Mountain/USF
+Potentially Life-Threatening,RESCUE SQUAD,Marina
+Potentially Life-Threatening,RESCUE SQUAD,McLaren Park
+Potentially Life-Threatening,RESCUE SQUAD,Mission
+Potentially Life-Threatening,RESCUE SQUAD,Mission Bay
+Potentially Life-Threatening,RESCUE SQUAD,Nob Hill
+Potentially Life-Threatening,RESCUE SQUAD,Noe Valley
+Potentially Life-Threatening,RESCUE SQUAD,North Beach
+Potentially Life-Threatening,RESCUE SQUAD,Oceanview/Merced/Ingleside
+Potentially Life-Threatening,RESCUE SQUAD,Outer Mission
+Potentially Life-Threatening,RESCUE SQUAD,Outer Richmond
+Potentially Life-Threatening,RESCUE SQUAD,Pacific Heights
+Potentially Life-Threatening,RESCUE SQUAD,Portola
+Potentially Life-Threatening,RESCUE SQUAD,Potrero Hill
+Potentially Life-Threatening,RESCUE SQUAD,Presidio
+Potentially Life-Threatening,RESCUE SQUAD,Presidio Heights
+Potentially Life-Threatening,RESCUE SQUAD,Russian Hill
+Potentially Life-Threatening,RESCUE SQUAD,Seacliff
+Potentially Life-Threatening,RESCUE SQUAD,South of Market
+Potentially Life-Threatening,RESCUE SQUAD,Sunset/Parkside
+Potentially Life-Threatening,RESCUE SQUAD,Tenderloin
+Potentially Life-Threatening,RESCUE SQUAD,Treasure Island
+Potentially Life-Threatening,RESCUE SQUAD,Twin Peaks
+Potentially Life-Threatening,RESCUE SQUAD,Visitacion Valley
+Potentially Life-Threatening,RESCUE SQUAD,Western Addition
+Potentially Life-Threatening,RESCUE SQUAD,West of Twin Peaks
+Potentially Life-Threatening,SUPPORT,Bayview Hunters Point
+Potentially Life-Threatening,SUPPORT,Bernal Heights
+Potentially Life-Threatening,SUPPORT,Castro/Upper Market
+Potentially Life-Threatening,SUPPORT,Chinatown
+Potentially Life-Threatening,SUPPORT,Excelsior
+Potentially Life-Threatening,SUPPORT,Financial District/South Beach
+Potentially Life-Threatening,SUPPORT,Glen Park
+Potentially Life-Threatening,SUPPORT,Golden Gate Park
+Potentially Life-Threatening,SUPPORT,Haight Ashbury
+Potentially Life-Threatening,SUPPORT,Hayes Valley
+Potentially Life-Threatening,SUPPORT,Inner Richmond
+Potentially Life-Threatening,SUPPORT,Inner Sunset
+Potentially Life-Threatening,SUPPORT,Japantown
+Potentially Life-Threatening,SUPPORT,Lakeshore
+Potentially Life-Threatening,SUPPORT,Lincoln Park
+Potentially Life-Threatening,SUPPORT,Lone Mountain/USF
+Potentially Life-Threatening,SUPPORT,Marina
+Potentially Life-Threatening,SUPPORT,Mission
+Potentially Life-Threatening,SUPPORT,Mission Bay
+Potentially Life-Threatening,SUPPORT,Nob Hill
+Potentially Life-Threatening,SUPPORT,Noe Valley
+Potentially Life-Threatening,SUPPORT,North Beach
+Potentially Life-Threatening,SUPPORT,Oceanview/Merced/Ingleside
+Potentially Life-Threatening,SUPPORT,Outer Mission
+Potentially Life-Threatening,SUPPORT,Outer Richmond
+Potentially Life-Threatening,SUPPORT,Pacific Heights
+Potentially Life-Threatening,SUPPORT,Portola
+Potentially Life-Threatening,SUPPORT,Potrero Hill
+Potentially Life-Threatening,SUPPORT,Presidio
+Potentially Life-Threatening,SUPPORT,Russian Hill
+Potentially Life-Threatening,SUPPORT,Seacliff
+Potentially Life-Threatening,SUPPORT,South of Market
+Potentially Life-Threatening,SUPPORT,Sunset/Parkside
+Potentially Life-Threatening,SUPPORT,Tenderloin
+Potentially Life-Threatening,SUPPORT,Treasure Island
+Potentially Life-Threatening,SUPPORT,Twin Peaks
+Potentially Life-Threatening,SUPPORT,Visitacion Valley
+Potentially Life-Threatening,SUPPORT,Western Addition
+Potentially Life-Threatening,SUPPORT,West of Twin Peaks
+Potentially Life-Threatening,TRUCK,Bayview Hunters Point
+Potentially Life-Threatening,TRUCK,Bernal Heights
+Potentially Life-Threatening,TRUCK,Castro/Upper Market
+Potentially Life-Threatening,TRUCK,Chinatown
+Potentially Life-Threatening,TRUCK,Excelsior
+Potentially Life-Threatening,TRUCK,Financial District/South Beach
+Potentially Life-Threatening,TRUCK,Glen Park
+Potentially Life-Threatening,TRUCK,Golden Gate Park
+Potentially Life-Threatening,TRUCK,Haight Ashbury
+Potentially Life-Threatening,TRUCK,Hayes Valley
+Potentially Life-Threatening,TRUCK,Inner Richmond
+Potentially Life-Threatening,TRUCK,Inner Sunset
+Potentially Life-Threatening,TRUCK,Japantown
+Potentially Life-Threatening,TRUCK,Lakeshore
+Potentially Life-Threatening,TRUCK,Lincoln Park
+Potentially Life-Threatening,TRUCK,Lone Mountain/USF
+Potentially Life-Threatening,TRUCK,Marina
+Potentially Life-Threatening,TRUCK,McLaren Park
+Potentially Life-Threatening,TRUCK,Mission
+Potentially Life-Threatening,TRUCK,Mission Bay
+Potentially Life-Threatening,TRUCK,Nob Hill
+Potentially Life-Threatening,TRUCK,Noe Valley
+Potentially Life-Threatening,TRUCK,North Beach
+Potentially Life-Threatening,TRUCK,Oceanview/Merced/Ingleside
+Potentially Life-Threatening,TRUCK,Outer Mission
+Potentially Life-Threatening,TRUCK,Outer Richmond
+Potentially Life-Threatening,TRUCK,Pacific Heights
+Potentially Life-Threatening,TRUCK,Portola
+Potentially Life-Threatening,TRUCK,Potrero Hill
+Potentially Life-Threatening,TRUCK,Presidio
+Potentially Life-Threatening,TRUCK,Presidio Heights
+Potentially Life-Threatening,TRUCK,Russian Hill
+Potentially Life-Threatening,TRUCK,Seacliff
+Potentially Life-Threatening,TRUCK,South of Market
+Potentially Life-Threatening,TRUCK,Sunset/Parkside
+Potentially Life-Threatening,TRUCK,Tenderloin
+Potentially Life-Threatening,TRUCK,Treasure Island
+Potentially Life-Threatening,TRUCK,Twin Peaks
+Potentially Life-Threatening,TRUCK,Visitacion Valley
+Potentially Life-Threatening,TRUCK,Western Addition
+Potentially Life-Threatening,TRUCK,West of Twin Peaks
+,AIRPORT,Bayview Hunters Point
+,AIRPORT,Bernal Heights
+,AIRPORT,Castro/Upper Market
+,AIRPORT,Chinatown
+,AIRPORT,Excelsior
+,AIRPORT,Financial District/South Beach
+,AIRPORT,Glen Park
+,AIRPORT,Golden Gate Park
+,AIRPORT,Haight Ashbury
+,AIRPORT,Hayes Valley
+,AIRPORT,Inner Richmond
+,AIRPORT,Inner Sunset
+,AIRPORT,Japantown
+,AIRPORT,Lakeshore
+,AIRPORT,Lincoln Park
+,AIRPORT,Lone Mountain/USF
+,AIRPORT,Marina
+,AIRPORT,McLaren Park
+,AIRPORT,Mission
+,AIRPORT,Mission Bay
+,AIRPORT,Nob Hill
+,AIRPORT,Noe Valley
+,AIRPORT,North Beach
+,AIRPORT,Oceanview/Merced/Ingleside
+,AIRPORT,Outer Mission
+,AIRPORT,Outer Richmond
+,AIRPORT,Pacific Heights
+,AIRPORT,Portola
+,AIRPORT,Potrero Hill
+,AIRPORT,Presidio
+,AIRPORT,Presidio Heights
+,AIRPORT,Russian Hill
+,AIRPORT,Seacliff
+,AIRPORT,South of Market
+,AIRPORT,Sunset/Parkside
+,AIRPORT,Tenderloin
+,AIRPORT,Treasure Island
+,AIRPORT,Twin Peaks
+,AIRPORT,Visitacion Valley
+,AIRPORT,Western Addition
+,AIRPORT,West of Twin Peaks
+,CHIEF,Bayview Hunters Point
+,CHIEF,Bernal Heights
+,CHIEF,Castro/Upper Market
+,CHIEF,Chinatown
+,CHIEF,Excelsior
+,CHIEF,Financial District/South Beach
+,CHIEF,Glen Park
+,CHIEF,Golden Gate Park
+,CHIEF,Haight Ashbury
+,CHIEF,Hayes Valley
+,CHIEF,Inner Richmond
+,CHIEF,Inner Sunset
+,CHIEF,Japantown
+,CHIEF,Lakeshore
+,CHIEF,Lincoln Park
+,CHIEF,Lone Mountain/USF
+,CHIEF,Marina
+,CHIEF,McLaren Park
+,CHIEF,Mission
+,CHIEF,Mission Bay
+,CHIEF,Nob Hill
+,CHIEF,Noe Valley
+,CHIEF,North Beach
+,CHIEF,Oceanview/Merced/Ingleside
+,CHIEF,Outer Mission
+,CHIEF,Outer Richmond
+,CHIEF,Pacific Heights
+,CHIEF,Portola
+,CHIEF,Potrero Hill
+,CHIEF,Presidio
+,CHIEF,Presidio Heights
+,CHIEF,Russian Hill
+,CHIEF,Seacliff
+,CHIEF,South of Market
+,CHIEF,Sunset/Parkside
+,CHIEF,Tenderloin
+,CHIEF,Treasure Island
+,CHIEF,Twin Peaks
+,CHIEF,Visitacion Valley
+,CHIEF,Western Addition
+,CHIEF,West of Twin Peaks
+,ENGINE,Bayview Hunters Point
+,ENGINE,Bernal Heights
+,ENGINE,Castro/Upper Market
+,ENGINE,Chinatown
+,ENGINE,Excelsior
+,ENGINE,Financial District/South Beach
+,ENGINE,Glen Park
+,ENGINE,Golden Gate Park
+,ENGINE,Haight Ashbury
+,ENGINE,Hayes Valley
+,ENGINE,Inner Richmond
+,ENGINE,Inner Sunset
+,ENGINE,Japantown
+,ENGINE,Lakeshore
+,ENGINE,Lincoln Park
+,ENGINE,Lone Mountain/USF
+,ENGINE,Marina
+,ENGINE,McLaren Park
+,ENGINE,Mission
+,ENGINE,Mission Bay
+,ENGINE,Nob Hill
+,ENGINE,Noe Valley
+,ENGINE,North Beach
+,ENGINE,Oceanview/Merced/Ingleside
+,ENGINE,Outer Mission
+,ENGINE,Outer Richmond
+,ENGINE,Pacific Heights
+,ENGINE,Portola
+,ENGINE,Potrero Hill
+,ENGINE,Presidio
+,ENGINE,Presidio Heights
+,ENGINE,Russian Hill
+,ENGINE,Seacliff
+,ENGINE,South of Market
+,ENGINE,Sunset/Parkside
+,ENGINE,Tenderloin
+,ENGINE,Treasure Island
+,ENGINE,Twin Peaks
+,ENGINE,Visitacion Valley
+,ENGINE,Western Addition
+,ENGINE,West of Twin Peaks
+,INVESTIGATION,Bayview Hunters Point
+,INVESTIGATION,Bernal Heights
+,INVESTIGATION,Castro/Upper Market
+,INVESTIGATION,Chinatown
+,INVESTIGATION,Excelsior
+,INVESTIGATION,Financial District/South Beach
+,INVESTIGATION,Glen Park
+,INVESTIGATION,Golden Gate Park
+,INVESTIGATION,Haight Ashbury
+,INVESTIGATION,Hayes Valley
+,INVESTIGATION,Inner Richmond
+,INVESTIGATION,Inner Sunset
+,INVESTIGATION,Japantown
+,INVESTIGATION,Lakeshore
+,INVESTIGATION,Lincoln Park
+,INVESTIGATION,Lone Mountain/USF
+,INVESTIGATION,Marina
+,INVESTIGATION,McLaren Park
+,INVESTIGATION,Mission
+,INVESTIGATION,Mission Bay
+,INVESTIGATION,Nob Hill
+,INVESTIGATION,Noe Valley
+,INVESTIGATION,North Beach
+,INVESTIGATION,Oceanview/Merced/Ingleside
+,INVESTIGATION,Outer Mission
+,INVESTIGATION,Outer Richmond
+,INVESTIGATION,Pacific Heights
+,INVESTIGATION,Portola
+,INVESTIGATION,Potrero Hill
+,INVESTIGATION,Presidio
+,INVESTIGATION,Presidio Heights
+,INVESTIGATION,Russian Hill
+,INVESTIGATION,Seacliff
+,INVESTIGATION,South of Market
+,INVESTIGATION,Sunset/Parkside
+,INVESTIGATION,Tenderloin
+,INVESTIGATION,Treasure Island
+,INVESTIGATION,Twin Peaks
+,INVESTIGATION,Visitacion Valley
+,INVESTIGATION,Western Addition
+,INVESTIGATION,West of Twin Peaks
+,MEDIC,Bayview Hunters Point
+,MEDIC,Bernal Heights
+,MEDIC,Castro/Upper Market
+,MEDIC,Chinatown
+,MEDIC,Excelsior
+,MEDIC,Financial District/South Beach
+,MEDIC,Glen Park
+,MEDIC,Golden Gate Park
+,MEDIC,Haight Ashbury
+,MEDIC,Hayes Valley
+,MEDIC,Inner Richmond
+,MEDIC,Inner Sunset
+,MEDIC,Japantown
+,MEDIC,Lakeshore
+,MEDIC,Lincoln Park
+,MEDIC,Lone Mountain/USF
+,MEDIC,Marina
+,MEDIC,McLaren Park
+,MEDIC,Mission
+,MEDIC,Mission Bay
+,MEDIC,Nob Hill
+,MEDIC,Noe Valley
+,MEDIC,North Beach
+,MEDIC,Oceanview/Merced/Ingleside
+,MEDIC,Outer Mission
+,MEDIC,Outer Richmond
+,MEDIC,Pacific Heights
+,MEDIC,Portola
+,MEDIC,Potrero Hill
+,MEDIC,Presidio
+,MEDIC,Presidio Heights
+,MEDIC,Russian Hill
+,MEDIC,Seacliff
+,MEDIC,South of Market
+,MEDIC,Sunset/Parkside
+,MEDIC,Tenderloin
+,MEDIC,Treasure Island
+,MEDIC,Twin Peaks
+,MEDIC,Visitacion Valley
+,MEDIC,Western Addition
+,MEDIC,West of Twin Peaks
+,PRIVATE,Bayview Hunters Point
+,PRIVATE,Bernal Heights
+,PRIVATE,Castro/Upper Market
+,PRIVATE,Chinatown
+,PRIVATE,Excelsior
+,PRIVATE,Financial District/South Beach
+,PRIVATE,Glen Park
+,PRIVATE,Golden Gate Park
+,PRIVATE,Haight Ashbury
+,PRIVATE,Hayes Valley
+,PRIVATE,Inner Richmond
+,PRIVATE,Inner Sunset
+,PRIVATE,Japantown
+,PRIVATE,Lakeshore
+,PRIVATE,Lincoln Park
+,PRIVATE,Lone Mountain/USF
+,PRIVATE,Marina
+,PRIVATE,McLaren Park
+,PRIVATE,Mission
+,PRIVATE,Mission Bay
+,PRIVATE,Nob Hill
+,PRIVATE,Noe Valley
+,PRIVATE,North Beach
+,PRIVATE,Oceanview/Merced/Ingleside
+,PRIVATE,Outer Mission
+,PRIVATE,Outer Richmond
+,PRIVATE,Pacific Heights
+,PRIVATE,Portola
+,PRIVATE,Potrero Hill
+,PRIVATE,Presidio
+,PRIVATE,Presidio Heights
+,PRIVATE,Russian Hill
+,PRIVATE,Seacliff
+,PRIVATE,South of Market
+,PRIVATE,Sunset/Parkside
+,PRIVATE,Tenderloin
+,PRIVATE,Treasure Island
+,PRIVATE,Twin Peaks
+,PRIVATE,Visitacion Valley
+,PRIVATE,Western Addition
+,PRIVATE,West of Twin Peaks
+,RESCUE CAPTAIN,Bayview Hunters Point
+,RESCUE CAPTAIN,Bernal Heights
+,RESCUE CAPTAIN,Castro/Upper Market
+,RESCUE CAPTAIN,Chinatown
+,RESCUE CAPTAIN,Excelsior
+,RESCUE CAPTAIN,Financial District/South Beach
+,RESCUE CAPTAIN,Glen Park
+,RESCUE CAPTAIN,Golden Gate Park
+,RESCUE CAPTAIN,Haight Ashbury
+,RESCUE CAPTAIN,Hayes Valley
+,RESCUE CAPTAIN,Inner Richmond
+,RESCUE CAPTAIN,Inner Sunset
+,RESCUE CAPTAIN,Japantown
+,RESCUE CAPTAIN,Lakeshore
+,RESCUE CAPTAIN,Lincoln Park
+,RESCUE CAPTAIN,Lone Mountain/USF
+,RESCUE CAPTAIN,Marina
+,RESCUE CAPTAIN,McLaren Park
+,RESCUE CAPTAIN,Mission
+,RESCUE CAPTAIN,Mission Bay
+,RESCUE CAPTAIN,Nob Hill
+,RESCUE CAPTAIN,Noe Valley
+,RESCUE CAPTAIN,North Beach
+,RESCUE CAPTAIN,Oceanview/Merced/Ingleside
+,RESCUE CAPTAIN,Outer Mission
+,RESCUE CAPTAIN,Outer Richmond
+,RESCUE CAPTAIN,Pacific Heights
+,RESCUE CAPTAIN,Portola
+,RESCUE CAPTAIN,Potrero Hill
+,RESCUE CAPTAIN,Presidio
+,RESCUE CAPTAIN,Presidio Heights
+,RESCUE CAPTAIN,Russian Hill
+,RESCUE CAPTAIN,Seacliff
+,RESCUE CAPTAIN,South of Market
+,RESCUE CAPTAIN,Sunset/Parkside
+,RESCUE CAPTAIN,Tenderloin
+,RESCUE CAPTAIN,Treasure Island
+,RESCUE CAPTAIN,Twin Peaks
+,RESCUE CAPTAIN,Visitacion Valley
+,RESCUE CAPTAIN,Western Addition
+,RESCUE CAPTAIN,West of Twin Peaks
+,RESCUE SQUAD,Bayview Hunters Point
+,RESCUE SQUAD,Bernal Heights
+,RESCUE SQUAD,Castro/Upper Market
+,RESCUE SQUAD,Chinatown
+,RESCUE SQUAD,Excelsior
+,RESCUE SQUAD,Financial District/South Beach
+,RESCUE SQUAD,Glen Park
+,RESCUE SQUAD,Golden Gate Park
+,RESCUE SQUAD,Haight Ashbury
+,RESCUE SQUAD,Hayes Valley
+,RESCUE SQUAD,Inner Richmond
+,RESCUE SQUAD,Inner Sunset
+,RESCUE SQUAD,Japantown
+,RESCUE SQUAD,Lakeshore
+,RESCUE SQUAD,Lincoln Park
+,RESCUE SQUAD,Lone Mountain/USF
+,RESCUE SQUAD,Marina
+,RESCUE SQUAD,McLaren Park
+,RESCUE SQUAD,Mission
+,RESCUE SQUAD,Mission Bay
+,RESCUE SQUAD,Nob Hill
+,RESCUE SQUAD,Noe Valley
+,RESCUE SQUAD,North Beach
+,RESCUE SQUAD,Oceanview/Merced/Ingleside
+,RESCUE SQUAD,Outer Mission
+,RESCUE SQUAD,Outer Richmond
+,RESCUE SQUAD,Pacific Heights
+,RESCUE SQUAD,Portola
+,RESCUE SQUAD,Potrero Hill
+,RESCUE SQUAD,Presidio
+,RESCUE SQUAD,Presidio Heights
+,RESCUE SQUAD,Russian Hill
+,RESCUE SQUAD,Seacliff
+,RESCUE SQUAD,South of Market
+,RESCUE SQUAD,Sunset/Parkside
+,RESCUE SQUAD,Tenderloin
+,RESCUE SQUAD,Treasure Island
+,RESCUE SQUAD,Twin Peaks
+,RESCUE SQUAD,Visitacion Valley
+,RESCUE SQUAD,Western Addition
+,RESCUE SQUAD,West of Twin Peaks
+,SUPPORT,Bayview Hunters Point
+,SUPPORT,Bernal Heights
+,SUPPORT,Castro/Upper Market
+,SUPPORT,Chinatown
+,SUPPORT,Excelsior
+,SUPPORT,Financial District/South Beach
+,SUPPORT,Glen Park
+,SUPPORT,Golden Gate Park
+,SUPPORT,Haight Ashbury
+,SUPPORT,Hayes Valley
+,SUPPORT,Inner Richmond
+,SUPPORT,Inner Sunset
+,SUPPORT,Japantown
+,SUPPORT,Lakeshore
+,SUPPORT,Lincoln Park
+,SUPPORT,Lone Mountain/USF
+,SUPPORT,Marina
+,SUPPORT,McLaren Park
+,SUPPORT,Mission
+,SUPPORT,Mission Bay
+,SUPPORT,Nob Hill
+,SUPPORT,Noe Valley
+,SUPPORT,North Beach
+,SUPPORT,Oceanview/Merced/Ingleside
+,SUPPORT,Outer Mission
+,SUPPORT,Outer Richmond
+,SUPPORT,Pacific Heights
+,SUPPORT,Portola
+,SUPPORT,Potrero Hill
+,SUPPORT,Presidio
+,SUPPORT,Presidio Heights
+,SUPPORT,Russian Hill
+,SUPPORT,Seacliff
+,SUPPORT,South of Market
+,SUPPORT,Sunset/Parkside
+,SUPPORT,Tenderloin
+,SUPPORT,Treasure Island
+,SUPPORT,Twin Peaks
+,SUPPORT,Visitacion Valley
+,SUPPORT,Western Addition
+,SUPPORT,West of Twin Peaks
+,TRUCK,Bayview Hunters Point
+,TRUCK,Bernal Heights
+,TRUCK,Castro/Upper Market
+,TRUCK,Chinatown
+,TRUCK,Excelsior
+,TRUCK,Financial District/South Beach
+,TRUCK,Glen Park
+,TRUCK,Golden Gate Park
+,TRUCK,Haight Ashbury
+,TRUCK,Hayes Valley
+,TRUCK,Inner Richmond
+,TRUCK,Inner Sunset
+,TRUCK,Japantown
+,TRUCK,Lakeshore
+,TRUCK,Lincoln Park
+,TRUCK,Lone Mountain/USF
+,TRUCK,Marina
+,TRUCK,McLaren Park
+,TRUCK,Mission
+,TRUCK,Mission Bay
+,TRUCK,Nob Hill
+,TRUCK,Noe Valley
+,TRUCK,North Beach
+,TRUCK,Oceanview/Merced/Ingleside
+,TRUCK,Outer Mission
+,TRUCK,Outer Richmond
+,TRUCK,Pacific Heights
+,TRUCK,Portola
+,TRUCK,Potrero Hill
+,TRUCK,Presidio
+,TRUCK,Presidio Heights
+,TRUCK,Russian Hill
+,TRUCK,Seacliff
+,TRUCK,South of Market
+,TRUCK,Sunset/Parkside
+,TRUCK,Tenderloin
+,TRUCK,Treasure Island
+,TRUCK,Twin Peaks
+,TRUCK,Visitacion Valley
+,TRUCK,Western Addition
+,TRUCK,West of Twin Peaks
