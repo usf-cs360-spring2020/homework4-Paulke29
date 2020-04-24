@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- TODO: Change title -->
-    <title>Website Template</title>
+    <title>Paul Ke's Homework 4</title>
 
     <!-- Load Bulma from CDN (consider saving it to repository instead) -->
     <!-- https://bulma.io/ -->
@@ -26,9 +26,9 @@
     <div class="hero-body">
       <div class="container">
         <!-- TODO: Change title -->
-        <h1 class="title">Website Title</h1>
+        <h1 class="title">Homework 4</h1>
         <!-- TODO: Change subtitle -->
-        <h2 class="subtitle">Website Subtitle</h2>
+        <h2 class="subtitle">Author: Paul Ke</h2>
       </div>
     </div>
   </section>
@@ -62,31 +62,10 @@
           </a>
 
           <!-- TODO: Modify or remove dropdown -->
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
+          <div class="navbar-item has-dropdown is-hoverable" href="#HierachyChart">
+            <a class="navbar-link" href="#HierachyChart">
               Visualizations
             </a>
-
-            <div class="navbar-dropdown">
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-line"></i></span>
-                <span>Line Chart</span>
-              </a>
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-area"></i></span>
-                <span>Area Chart</span>
-              </a>
-
-              <hr class="navbar-divider">
-
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-bar"></i></span>
-                <span>Bar Chart</span>
-              </a>
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-pie"></i></span>
-                <span>Pie Chart</span>
-              </a>
             </div>
           </div>
         </div>
@@ -115,62 +94,45 @@
       <div class="content">
         <h1 class="title">
           <!-- TODO: Change page title -->
-          Page Title
+          Introductions
         </h1>
-        <p class="subtitle">
-          <!-- TODO: Change page subtitle -->
-          Page Subtitle
-        </p>
 
-        <p>This would be an excellent place to describe what this page is for, what to find in different sections, describe any motivation or theme behind your visualizations, and so on.</p>
+        <p>Fire Calls-For-Service includes all fire units responses to calls. Each record includes the call number, incident number, address, unit identifier, call type, and disposition. All relevant time intervals are also included. Because this dataset is based on responses, and since most calls involved multiple units, there are multiple records for each call number. Addresses are associated with a block number, intersection or call box, not a specific address.</p>
 
-        <p>You should not use this template unless you intend to customize it. Make it your own. Keep in mind this simple template is over 300 lines! You can see other examples of websites using Bulma at their showcase: <a href="https://bulma.io/expo/">bulma.io/expo/</a>.</p>
+        <p>In this page, I am going to focus on the distribution for the each unit type of Alarm call type happen in each community</p>
 
         <h2 id="data">Data</h2>
 
-        <p>Include some detailed information about the dataset here. You should <a href="#">add a link</a> to the original dataset. You might also want to quote the license:</p>
+        <!-- <p>Include some detailed information about the dataset here. You should <a href="#">add a link</a> to the original dataset. You might also want to quote the license:</p> -->
 
         <blockquote>
           <p>
-            "This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: <a href="http://www.opendatacommons.org/licenses/pddl/1.0/">www.opendatacommons.org/licenses/pddl/1.0/</a>"
+            "This data is made available under the Fire Department Of San Francisco</p>
+          <p>License: Open Data Commons Public Domain Dedication </p>
+          <p>
+            can be found at: <a href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3</a>"
           </p>
-          <cite>Put a citation here, possibly link to the dataset license information directly.</cite>
+          <!-- <cite>Put a citation here, possibly link to the dataset license information directly.</cite> -->
         </blockquote>
 
-        <p>In addition to including a link to the source and license, you should describe the data. You might want a list of some sort to enumerate the different types of columns:</p>
+        <!-- <p>In addition to including a link to the source and license, you should describe the data. You might want a list of some sort to enumerate the different types of columns:</p> -->
 
         <ol>
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
+          <li><strong>Call Type:</strong> Call Type.</li>
 
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
+          <li><strong>Neighborhooods - Analysis Boundaries:</strong> Neighborhood District associated with this address.</li>
 
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
+          <li><strong>Unit Type:</strong> Unit Type.</li>
         </ol>
 
-        <p>This will of course differ depending on the assignment and data.</p>
+        <!-- <p>This will of course differ depending on the assignment and data.</p> -->
 
-        <h3 id="wrangling">Wrangling</h3>
+        <h3 id="WriteUps">WriteUps</h3>
 
-        <p>Perhaps you had to do some data wrangling to the original dataset to prepare it for visualization. This would be a great place to discuss some of that wrangling.
-
-        <pre>
-You can even put code into these pre blocks.
-  It will preserve whitespace.
-    That is helpful for formatted code.
-        </pre>
-
-        <p>You can alternatively embed a Gist if you want. There is an "embed" button on <a href="https://gist.github.com/octocat/6cad326836d38bd3a7ae">the Gist page</a> and results in something like this:</p>
-
-        <script src="https://gist.github.com/octocat/6cad326836d38bd3a7ae.js"></script>
-
-        <h4>Instructions</h4>
-
-        <p>You will likely need to include instructions on how to interpet and use the visualization. In the case above, if you click the three dots <i class="fas fa-ellipsis-h has-text-grey-light	"></i> above it will open a menu where you can either save the visualization to a SVG or PNG, or alternatively open it up in the online Vega Editor.</p>
-
-
-        <h3>Here is the chart made by D3.js</h3>
+        <p><strong>Attempted Grade: </strong>I believe I complete B level work this time. I did use d3.pack() and d3.tree() function and my work has satisfied the requirement of B level work </p>
+        <P><strong>Wrangling: </strong>I filter the dataset in the DataSf Website and use JavaScript function to change format of the dataset as JSON style</p>
+        <p><strong>Interactivity: </strong> When you move over in the hierarchy charts, ther outer circle will shows you the call type name, then the middle circles will show you the until type names, eventutally, the inner circles will show you the community names</p>
+        <h1>Here is the chart made by D3.js</h1>
         <style>
           circle {
             fill: indianred;
@@ -189,17 +151,20 @@ You can even put code into these pre blocks.
           }
           text {
             font-family: "Helvetica Neue", Helvetica, sans-serif;
-            fill: white;
-            font-size: 10px;
+            fill: Red;
+            font-size: 30px;
             text-anchor: middle;
           }
         </style>
         <div id="HierachyChart">
-          <svg width="960" height="600">
+          <h2>Hierachy layout </h2>
+          <svg width="960" height="600" id="HierachyChart">
             <g></g>
+            <g id="details" pointer-events="none"></g>
           </svg>
+          <h2>Tree layout </h2>
           <svg width="960" height="600" id="treemap">
-            <g transform="translate(5, 5)">
+            <g>
               <g class="links"></g>
               <g class="nodes"></g>
             </g>
@@ -207,21 +172,8 @@ You can even put code into these pre blocks.
 
         </div>
         <script src="HierachyChart.js"></script>
-        <h4>Discussion</h4>
-
-        <p>You may also need other sections, like a discussion section, per-visualization section on data wrangling, and others. Because of the extra content and code visualizations take, it might be worthwhile to break up your pages into one home page and then one page per visualization.</p>
-
-        <span class="heading">Acknowledgements</span>
-
-        <p>
-          <a href="#">Link to insiration</a><br/>
-          <a href="#">Link to StackOverflow snippet</a>
-        </p>
-
-        <p class="is-6">
-          <em>Thanks to Person Name for their suggestion to do something with the visualization.</em>
-        </p>
-
+        <h1>Conclusion</h1>
+        <p>Those two charts show that the number of record of each unit type in Alarm call type except airport has not big difference</p>
         <h2 id="grade">Grade</h2>
 
         <!-- TODO: Remove custom style if no longer needed -->
@@ -278,22 +230,22 @@ You can even put code into these pre blocks.
         <article class="media">
           <!-- TODO: Replace with profile photo -->
           <figure class="media-left">
-            <p class="image is-128x128"><img class="is-rounded" src="profile.png"></p>
+            <p class="image is-128x128"><img class="is-rounded" src="sef.png"></p>
           </figure>
 
           <div class="media-content">
             <div class="content">
               <!-- TODO: Replace with contact information -->
               <p>
-                <strong>Full Name</strong><br/>
+                <strong>Paul Ke</strong><br/>
                 CS Major, <a href="https://www.usfca.edu/">University of San Francisco</a><br/>
-                <em>Expected Graduation: 20??</em><br/>
-                <i class="fas fa-envelope"></i> <a href="mailto:username@dons.usfca.edu">username@dons.usfca.edu</a>
+                <em>Expected Graduation: 2020</em><br/>
+                <i class="fas fa-envelope"></i> <a href="mailto:yke7@dons.usfca.edu">yke7@dons.usfca.edu</a>
               </p>
 
               <!-- TODO: Replace with brief biography -->
               <p>
-                Here is a brief bio about yourself. A good rule of thumb is to include at least one technical tidbit (favorite area or course within computer science), and one fun tidbit (such as loving dogs).
+                I am seeking an internship position in Computer Science where I can help discover solutions for many of the problems users encounter in your company. To prepare for my career, I am pursuing my education degree from the University Of San Francisco and majoring in Computer Science and Marketing.
               </p>
 
               <!-- TODO: Replace or remove tags -->

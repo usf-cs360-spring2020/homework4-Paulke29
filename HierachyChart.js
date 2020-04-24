@@ -1,6 +1,22 @@
 let csv = 'Fire_Department_Calls_for_Service.csv';
 console.log("CSV: "+csv);
+const g ={
+  details: d3.select("g#details")
+}
+const details = g.details.append("foreignObject")
+  .attr("id", "details")
+  .attr("width", 360)
+  .attr("height", 300)
+  .attr("table-layout", "auto")
+  .attr("x", 500)
+  .attr("y", 0);
 
+const body = details.append("xhtml:body")
+  .style("text-align", "right")
+  .style("background", "none")
+  .html("<p>N/A</p>");
+
+details.style("visibility", "hidden");
 
 d3.csv(csv).then(function(data){
 drawChart(data);
@@ -56,7 +72,7 @@ function Frequency(data){
       continue;
     }
   }
-   console.log("Array: "+JSON.stringify(Counting));
+  console.log("Array: "+JSON.stringify(Counting));
   return Counting;
 }
 
@@ -71,7 +87,7 @@ function drawChart(data){
   var rootNode = d3.hierarchy(Groupdata)
 
   rootNode.sum(function(d) {
-    console.log("VALUE: "+d.values)
+    // console.log("VALUE: "+d.values)
     return d.values;
   });
 
@@ -82,15 +98,23 @@ function drawChart(data){
   .enter()
   .append('g')
   .attr('transform', function(d) {return 'translate(' + [d.x, d.y] + ')'})
+  .attr('id', d => d.data.names)
+
   nodes
   .append('circle')
   .attr('r', function(d) { return d.r; })
   nodes
-  .append('text')
-  .attr('dy', 4)
-  // .text(function(d) {
-  //   return d.children === undefined ? d.data.names : '';
-  // })
+  .on("mouseover.highlight",function(d){
+  d3.select(this)
+    .append('text')
+    .attr('dy', 40)
+    .text(d.data.names)
+    .attr("x", 300)
+    .attr("y", 0);
+  })
+  .on("mouseout.highlight", function(d) {
+    d3.select("#HierachyChart").selectAll('text').remove();
+  });
 
 }
 
@@ -111,9 +135,27 @@ d3.select('#treemap g.nodes')
   .enter()
   .append('circle')
   .classed('node', true)
+  .attr('id', d => d.data.names)
   .attr('cx', function(d) {return d.x;})
   .attr('cy', function(d) {return d.y;})
-  .attr('r', 4);
+  .attr('r', 4)
+  .attr("x", 200)
+  .attr("y", -100)
+  .attr("fill","red")
+  .on("mouseover.highlight",function(d){
+        d3.select(this)
+          .append('text')
+          .attr('dy', 40)
+          .text(d.data.names)
+          .attr("x", 500)
+          .attr("y", 400)
+          .attr("fill","red")
+  })
+  // .on("mouseout.highlight", function(d) {
+  //   // d3.select(this).classed("active", false);
+  //   // details.style("visibility", "hidden");
+  //   d3.select("#treemap").selectAll('text').remove();
+  // });
 
 // Links
 d3.select('#treemap g.links')
