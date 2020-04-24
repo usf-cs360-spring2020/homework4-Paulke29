@@ -9,6 +9,7 @@ function Frequency(data){
   var type;
   var unit;
   var UnitType;
+  var Neighborhooods;
   const Counting = new Object();
   Counting.names = type;
   Counting.children = [];
@@ -27,15 +28,22 @@ function Frequency(data){
         // console.log("UNIT: "+unit+": "+JSON.stringify(list))
         const result = list.find(({ names}) => names === unit);
         // console.log(JSON.stringify("RES: "+result))
-        UnitType.value = UnitType.value+1;
+        // UnitType.value = UnitType.value+1;
         // result.children.push(neighbor);
         // console.log(2)
+        Neighborhooods = new Object();
+        Neighborhooods.names = neighbor;
+        Neighborhooods.values = 1;
+        UnitType.children.push(Neighborhooods);
       }else{
         UnitType = new Object();
         UnitType.names = unit;
-        // UnitType.children = [];
-        UnitType.value = 1;
-        // UnitType.children.push(neighbor);
+        UnitType.children = [];
+        // UnitType.value = 1;
+        Neighborhooods = new Object();
+        Neighborhooods.names = neighbor;
+        Neighborhooods.values = 1;
+        UnitType.children.push(Neighborhooods);
         Counting.children.push(UnitType);
         // Counting.name = type
         // console.log(1)
@@ -60,24 +68,11 @@ function drawChart(data){
   var rootNode = d3.hierarchy(Groupdata)
 
   rootNode.sum(function(d) {
-    return d.value;
+    console.log("VALUE: "+d.values)
+    return d.values;
   });
 
   packLayout(rootNode);
-  console.log("Descendants: "+ (rootNode.descendants()));
-  // d3.select('svg g')
-  //   .selectAll('circle')
-  //   .data(rootNode.descendants())
-  //   .enter()
-  //   .append('circle')
-  //   .attr('cx', function(d) { return d.x; })
-  //   .attr('cy', function(d) { return d.y; })
-  //   .attr('r', function(d) { return d.r; })
-  //   .append('text')
-  //   .attr('dy', 4)
-  //   .text(function(d) {
-  //     return d.name;
-  //   })
   var nodes = d3.select('svg g')
   .selectAll('g')
   .data(rootNode.descendants())
@@ -90,8 +85,8 @@ function drawChart(data){
   nodes
   .append('text')
   .attr('dy', 4)
-  .text(function(d) {
-    return d.children === undefined ? d.data.names : '';
-  })
+  // .text(function(d) {
+  //   return d.children === undefined ? d.data.names : '';
+  // })
 
 }
